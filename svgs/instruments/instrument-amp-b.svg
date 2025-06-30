@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- This file was created by the DynamicDraw's "SVG Export" plug-in version 1.1.2.-->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="4.9696159mm"
+   height="3.105mm"
+   viewBox="0 0 4.9696159 3.105"
+   version="1.1"
+   id="svg54"
+   sodipodi:docname="楽器アンプB.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata60">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs58" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="780"
+     inkscape:window-height="480"
+     id="namedview56"
+     showgrid="false"
+     inkscape:zoom="16.871566"
+     inkscape:cx="9.3917707"
+     inkscape:cy="5.8680717"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg54" />
+  <g
+     style="stroke-linecap:round;stroke-linejoin:round"
+     id="g52"
+     transform="translate(-0.298094,-0.298094)">
+    <!-- start DynamicDraw object [1], type : FDOJ_GROUP -->
+    <g
+       id="g50">
+      <!-- group -->
+      <!-- start DynamicDraw object [1], type : FDOJ_POLY -->
+      <polyline
+         points="0.385123,2.782902 1.364046,3.365594 4.184277,3.365594 5.180681,2.782902 "
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.075"
+         id="polyline2" />
+      <!-- end DynamicDraw object [1], type : FDOJ_POLY -->
+      <!-- start DynamicDraw object [2], type : FDOJ_POLY -->
+      <polyline
+         points="0.501662,2.782902 0.734738,2.922748 4.836892,2.922748 5.069969,2.782902 "
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.075"
+         id="polyline4" />
+      <!-- end DynamicDraw object [2], type : FDOJ_POLY -->
+      <!-- start DynamicDraw object [3], type : FDOJ_GROUP -->
+      <g
+         id="g12">
+        <!-- group -->
+        <!-- start DynamicDraw object [3], type : FDOJ_ARC -->
+        <ellipse
+           cx="2.756681"
+           cy="3.1266899"
+           rx="0.79680699"
+           ry="0.38968101"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.075"
+           transform="matrix(-0.97938772,0.20198933,-3.9303689,-0.21044516,17.745586,3.2278666)"
+           id="ellipse6" />
+        <!-- end DynamicDraw object [3], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [4], type : FDOJ_ARC -->
+        <ellipse
+           cx="2.756681"
+           cy="3.11887"
+           rx="0.68874198"
+           ry="0.29877901"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.075"
+           transform="matrix(-0.98396961,0.17833621,-4.4516623,-0.20946521,19.353327,3.2805487)"
+           id="ellipse8" />
+        <!-- end DynamicDraw object [4], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [5], type : FDOJ_POLY -->
+        <path
+           d="m 2.407065,3.014048 c 0,0 0.116539,-0.033031 0.349616,-0.033031 0.233077,0 0.349615,0.033031 0.349615,0.033031 0,0 -0.046615,0.133803 -0.349615,0.133803 -0.303,0 -0.349616,-0.133803 -0.349616,-0.133803"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.075"
+           id="path10"
+           inkscape:connector-curvature="0" />
+        <!-- end DynamicDraw object [5], type : FDOJ_POLY -->
+      </g>
+      <!-- group -->
+      <!-- end DynamicDraw object [3], type : FDOJ_GROUP -->
+      <!-- start DynamicDraw object [4], type : FDOJ_POLY -->
+      <path
+         d="m 1.256248,2.782902 c 0,0 2.890154,0 3.904039,0 0.058269,0 0.069923,-0.011654 0.069923,-0.069923 0,-0.058269 0,-2.214231 0,-2.307462 0,-0.058269 -0.011654,-0.069923 -0.069923,-0.069923 -0.1515,0 -4.661539,0 -4.75477,0 -0.058269,0 -0.069923,0.011654 -0.069923,0.069923 0,0.20977 0,2.086039 0,2.307462 0,0.058269 0.011654,0.069923 0.069923,0.069923 0.431193,0 0.955616,0 0.955616,0"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.075"
+         id="path14"
+         inkscape:connector-curvature="0" />
+      <!-- end DynamicDraw object [4], type : FDOJ_POLY -->
+      <!-- start DynamicDraw object [5], type : FDOJ_GROUP -->
+      <g
+         id="g42">
+        <!-- group -->
+        <!-- start DynamicDraw object [5], type : FDOJ_GROUP -->
+        <g
+           id="g20">
+          <!-- group -->
+          <!-- start DynamicDraw object [5], type : FDOJ_ARC -->
+          <ellipse
+             cx="1.084354"
+             cy="2.847635"
+             rx="0.091003001"
+             ry="0.076807"
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.075"
+             transform="matrix(-0.93021232,0.36702185,-2.1630664,-0.22157025,8.2526569,3.0806046)"
+             id="ellipse16" />
+          <!-- end DynamicDraw object [5], type : FDOJ_ARC -->
+          <!-- start DynamicDraw object [6], type : FDOJ_LINE -->
+          <line
+             x1="1.0949351"
+             y1="2.8434601"
+             x2="1.179587"
+             y2="2.81006"
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.075"
+             id="line18" />
+          <!-- end DynamicDraw object [6], type : FDOJ_LINE -->
+        </g>
+        <!-- group -->
+        <!-- end DynamicDraw object [5], type : FDOJ_GROUP -->
+        <!-- start DynamicDraw object [6], type : FDOJ_ARC -->
+        <ellipse
+           cx="2.132128"
+           cy="2.847635"
+           rx="0.091003001"
+           ry="0.076807"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.075"
+           transform="matrix(0.93021232,0.36702185,-2.1630664,0.22157025,6.3084197,1.4341462)"
+           id="ellipse22" />
+        <!-- end DynamicDraw object [6], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [7], type : FDOJ_LINE -->
+        <line
+           x1="2.121546"
+           y1="2.8434601"
+           x2="2.0368941"
+           y2="2.81006"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.075"
+           id="line24" />
+        <!-- end DynamicDraw object [7], type : FDOJ_LINE -->
+        <!-- start DynamicDraw object [8], type : FDOJ_ARC -->
+        <ellipse
+           cx="2.5678599"
+           cy="2.847862"
+           rx="0.047134001"
+           ry="0.148293"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.075"
+           transform="matrix(-0.61885235,0.78550734,-1.2419085,-0.03954375,7.6937703,0.94340426)"
+           id="ellipse26" />
+        <!-- end DynamicDraw object [8], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [9], type : FDOJ_LINE -->
+        <line
+           x1="2.571506"
+           y1="2.8432341"
+           x2="2.6006751"
+           y2="2.80621"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.075"
+           id="line28" />
+        <!-- end DynamicDraw object [9], type : FDOJ_LINE -->
+        <!-- start DynamicDraw object [10], type : FDOJ_ARC -->
+        <ellipse
+           cx="3.0072379"
+           cy="2.847635"
+           rx="0.091003001"
+           ry="0.076807"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.075"
+           transform="matrix(-0.93021232,0.36702185,-2.1630664,-0.22157025,11.964231,2.3748641)"
+           id="ellipse30" />
+        <!-- end DynamicDraw object [10], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [11], type : FDOJ_LINE -->
+        <line
+           x1="3.0178199"
+           y1="2.8434601"
+           x2="3.1024721"
+           y2="2.81006"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.075"
+           id="line32" />
+        <!-- end DynamicDraw object [11], type : FDOJ_LINE -->
+        <!-- start DynamicDraw object [12], type : FDOJ_ARC -->
+        <ellipse
+           cx="3.8230081"
+           cy="2.847635"
+           rx="0.091003001"
+           ry="0.076807"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.075"
+           transform="matrix(-0.93021232,0.36702185,-2.1630664,-0.22157025,13.538841,2.0754587)"
+           id="ellipse34" />
+        <!-- end DynamicDraw object [12], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [13], type : FDOJ_LINE -->
+        <line
+           x1="3.8335891"
+           y1="2.8434601"
+           x2="3.918241"
+           y2="2.81006"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.075"
+           id="line36" />
+        <!-- end DynamicDraw object [13], type : FDOJ_LINE -->
+        <!-- start DynamicDraw object [14], type : FDOJ_ARC -->
+        <ellipse
+           cx="4.2826548"
+           cy="2.8459139"
+           rx="0.184259"
+           ry="0.037934002"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.075"
+           transform="matrix(0.99949346,0.03182498,-0.76894751,0.97602266,2.1905278,-0.06805796)"
+           id="ellipse38" />
+        <!-- end DynamicDraw object [14], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [15], type : FDOJ_LINE -->
+        <line
+           x1="4.259634"
+           y1="2.845181"
+           x2="4.0754681"
+           y2="2.8393171"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.075"
+           id="line40" />
+        <!-- end DynamicDraw object [15], type : FDOJ_LINE -->
+      </g>
+      <!-- group -->
+      <!-- end DynamicDraw object [5], type : FDOJ_GROUP -->
+      <!-- start DynamicDraw object [6], type : FDOJ_POLY -->
+      <path
+         d="m 1.68376,1.361133 c -0.137393,0 -0.206089,0.012121 -0.206089,0.034961 0,0.058269 0,0.209769 0,0.256385 0,0.02284 0.071455,0.034961 0.206089,0.034961 0.412178,0 1.717409,0 2.198284,0 0.134634,0 0.206089,-0.012121 0.206089,-0.034961 0,-0.046616 0,-0.209769 0,-0.256385 0,-0.02284 -0.071455,-0.034961 -0.206089,-0.034961 -0.274786,0 -1.854802,0 -2.198284,0"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.075"
+         id="path44"
+         inkscape:connector-curvature="0" />
+      <!-- end DynamicDraw object [6], type : FDOJ_POLY -->
+      <!-- start DynamicDraw object [7], type : FDOJ_POLY -->
+      <path
+         d="m 3.751398,1.151363 c -0.00859,0 -0.012881,0.026409 -0.012881,0.076167 0,0.126943 0,0.456997 0,0.558552 0,0.049758 0.00447,0.076166 0.012881,0.076166 0.025761,0 0.107338,0 0.137393,0 0.00841,0 0.01288,-0.026408 0.01288,-0.076166 0,-0.101555 0,-0.456997 0,-0.558552 0,-0.049758 -0.00447,-0.076167 -0.01288,-0.076167 -0.017175,0 -0.115926,0 -0.137393,0"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.075"
+         id="path46"
+         inkscape:connector-curvature="0" />
+      <!-- end DynamicDraw object [7], type : FDOJ_POLY -->
+      <!-- start DynamicDraw object [8], type : FDOJ_POLY -->
+      <path
+         d="m 1.677013,1.151363 c -0.00859,0 -0.01288,0.026409 -0.01288,0.076167 0,0.126943 0,0.456997 0,0.558552 0,0.049758 0.00447,0.076166 0.01288,0.076166 0.025761,0 0.107338,0 0.137393,0 0.00842,0 0.012881,-0.026408 0.012881,-0.076166 0,-0.101555 0,-0.456997 0,-0.558552 0,-0.049758 -0.00447,-0.076167 -0.012881,-0.076167 -0.017174,0 -0.115925,0 -0.137393,0"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.075"
+         id="path48"
+         inkscape:connector-curvature="0" />
+      <!-- end DynamicDraw object [8], type : FDOJ_POLY -->
+    </g>
+    <!-- group -->
+    <!-- end DynamicDraw object [1], type : FDOJ_GROUP -->
+  </g>
+  <!-- stroke-linecap, etc -->
+</svg>

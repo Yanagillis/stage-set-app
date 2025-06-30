@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- This file was created by the DynamicDraw's "SVG Export" plug-in version 1.1.2.-->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="3.105mm"
+   height="5.2259998mm"
+   viewBox="0 0 3.105 5.2259998"
+   version="1.1"
+   id="svg34"
+   sodipodi:docname="箱馬大B正面1尺7寸x1尺.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata40">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs38" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="780"
+     inkscape:window-height="480"
+     id="namedview36"
+     showgrid="false"
+     inkscape:zoom="10.725123"
+     inkscape:cx="5.8673613"
+     inkscape:cy="9.8762609"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg34" />
+  <g
+     style="stroke-linecap:round;stroke-linejoin:round"
+     id="g32"
+     transform="translate(-0.29809399,-0.29809398)">
+    <!-- start DynamicDraw object [1], type : FDOJ_GROUP -->
+    <g
+       id="g30">
+      <!-- group -->
+      <!-- start DynamicDraw object [1], type : FDOJ_RECT -->
+      <rect
+         x="1.759694"
+         y="2.608094"
+         width="0.18179999"
+         height="0.60600001"
+         style="fill:#cccccc;stroke:#000000;stroke-width:0.075"
+         transform="rotate(-90,1.850594,2.911094)"
+         id="rect2" />
+      <g
+         transform="rotate(90,1.850594,2.911094)"
+         id="g4">
+        <!-- rotation -->
+      </g>
+      <!-- rotation -->
+      <!-- end DynamicDraw object [1], type : FDOJ_RECT -->
+      <!-- start DynamicDraw object [2], type : FDOJ_RECT -->
+      <rect
+         x="1.759694"
+         y="5.0926938"
+         width="0.18179999"
+         height="0.60600001"
+         style="fill:#cccccc;stroke:#000000;stroke-width:0.075"
+         transform="rotate(-90,1.850594,5.395694)"
+         id="rect6" />
+      <g
+         transform="rotate(90,1.850594,5.395694)"
+         id="g8">
+        <!-- rotation -->
+      </g>
+      <!-- rotation -->
+      <!-- end DynamicDraw object [2], type : FDOJ_RECT -->
+      <!-- start DynamicDraw object [3], type : FDOJ_RECT -->
+      <rect
+         x="1.759694"
+         y="0.123494"
+         width="0.18179999"
+         height="0.60600001"
+         style="fill:#cccccc;stroke:#000000;stroke-width:0.075"
+         transform="rotate(-90,1.850594,0.426494)"
+         id="rect10" />
+      <g
+         transform="rotate(90,1.850594,0.426494)"
+         id="g12">
+        <!-- rotation -->
+      </g>
+      <!-- rotation -->
+      <!-- end DynamicDraw object [3], type : FDOJ_RECT -->
+      <!-- start DynamicDraw object [4], type : FDOJ_RECT -->
+      <rect
+         x="0.335594"
+         y="0.335594"
+         width="1.212"
+         height="5.151"
+         style="fill:#cccccc;stroke:#000000;stroke-width:0.075"
+         transform="rotate(180,0.941594,2.911094)"
+         id="rect14" />
+      <text
+         style="font-size:2.46944404px"
+         id="text20">
+        <tspan
+           style="font-weight:400;font-size:2.46944404px;font-family:'メイリオ'"
+           id="tspan18">
+          <tspan
+             style="fill:#000000"
+             id="tspan16" />
+        </tspan>
+      </text>
+      <!-- end DynamicDraw object [4], type : FDOJ_RECT -->
+      <!-- start DynamicDraw object [5], type : FDOJ_RECT -->
+      <rect
+         x="2.153594"
+         y="0.335594"
+         width="1.212"
+         height="5.151"
+         style="fill:#cccccc;stroke:#000000;stroke-width:0.075"
+         transform="rotate(180,2.759594,2.911094)"
+         id="rect22" />
+      <text
+         style="font-size:2.46944404px"
+         id="text28">
+        <tspan
+           style="font-weight:400;font-size:2.46944404px;font-family:'メイリオ'"
+           id="tspan26">
+          <tspan
+             style="fill:#000000"
+             id="tspan24" />
+        </tspan>
+      </text>
+      <!-- end DynamicDraw object [5], type : FDOJ_RECT -->
+    </g>
+    <!-- group -->
+    <!-- end DynamicDraw object [1], type : FDOJ_GROUP -->
+  </g>
+  <!-- stroke-linecap, etc -->
+</svg>

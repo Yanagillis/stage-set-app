@@ -1,0 +1,1725 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- This file was created by the DynamicDraw's "SVG Export" plug-in version 1.1.2.-->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="5.9649696mm"
+   height="7.0464172mm"
+   viewBox="0 0 5.9649695 7.0464172"
+   version="1.1"
+   id="svg354"
+   sodipodi:docname="長胴太鼓E.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata360">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs358" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="780"
+     inkscape:window-height="480"
+     id="namedview356"
+     showgrid="false"
+     inkscape:zoom="8.1965957"
+     inkscape:cx="11.272547"
+     inkscape:cy="13.315317"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg354" />
+  <g
+     style="stroke-linecap:round;stroke-linejoin:round"
+     id="g352"
+     transform="translate(-0.285972,-0.28559394)">
+    <!-- start DynamicDraw object [1], type : FDOJ_GROUP -->
+    <g
+       id="g350">
+      <!-- group -->
+      <!-- start DynamicDraw object [1], type : FDOJ_RECT -->
+      <rect
+         x="0.68358397"
+         y="0.73680103"
+         width="0.91726702"
+         height="0.91726702"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+         transform="rotate(135,1.142218,1.195435)"
+         id="rect2" />
+      <!-- end DynamicDraw object [1], type : FDOJ_RECT -->
+      <!-- start DynamicDraw object [2], type : FDOJ_RECT -->
+      <rect
+         x="4.8995199"
+         y="6.0357089"
+         width="0.91726702"
+         height="0.91726702"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+         transform="rotate(135,5.358153,6.494342)"
+         id="rect4" />
+      <!-- end DynamicDraw object [2], type : FDOJ_RECT -->
+      <!-- start DynamicDraw object [3], type : FDOJ_RECT -->
+      <rect
+         x="0.68358397"
+         y="6.0357089"
+         width="0.91726702"
+         height="0.91726702"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+         transform="rotate(45,1.142218,6.494342)"
+         id="rect6" />
+      <!-- end DynamicDraw object [3], type : FDOJ_RECT -->
+      <!-- start DynamicDraw object [4], type : FDOJ_RECT -->
+      <rect
+         x="4.8995199"
+         y="0.73680103"
+         width="0.91726702"
+         height="0.91726702"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+         transform="rotate(45,5.358153,1.195435)"
+         id="rect8" />
+      <!-- end DynamicDraw object [4], type : FDOJ_RECT -->
+      <!-- start DynamicDraw object [5], type : FDOJ_GROUP -->
+      <g
+         id="g348">
+        <!-- group -->
+        <!-- start DynamicDraw object [5], type : FDOJ_POLY -->
+        <path
+           d="m 2.604253,4.144385 c 0,0 3.105439,-2.438552 3.105439,-2.438552 C 5.915461,1.963697 6.249963,3.070507 6.194868,3.91992 6.098129,5.411386 5.53285,6.184223 5.179558,6.510013 4.432632,7.198796 3.373906,7.201641 2.834113,7.187264"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           id="path10"
+           inkscape:connector-curvature="0" />
+        <!-- end DynamicDraw object [5], type : FDOJ_POLY -->
+        <!-- start DynamicDraw object [6], type : FDOJ_POLY -->
+        <path
+           d="m 3.957782,4.144385 c 0,0 -3.10544,-2.438552 -3.10544,-2.438552 -0.205769,0.257864 -0.54027,1.364674 -0.485176,2.214087 0.096739,1.491466 0.662018,2.264303 1.01531,2.590093 0.746926,0.688783 1.805652,0.691628 2.345446,0.677251"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           id="path12"
+           inkscape:connector-curvature="0" />
+        <!-- end DynamicDraw object [6], type : FDOJ_POLY -->
+        <!-- start DynamicDraw object [7], type : FDOJ_ARC -->
+        <path
+           d="M 6.005723,2.69373 A 2.896389,2.481718 0 1 1 0.605604,2.450268"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           id="path14"
+           inkscape:connector-curvature="0" />
+        <!-- end DynamicDraw object [7], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [8], type : FDOJ_ARC -->
+        <ellipse
+           cx="0.50142801"
+           cy="2.5999351"
+           rx="0.044362001"
+           ry="0.101386"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(0.87120987,0.49091075,-0.21626522,1.0259676,0.62685449,-0.31367041)"
+           id="ellipse16" />
+        <!-- end DynamicDraw object [8], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [9], type : FDOJ_ARC -->
+        <ellipse
+           cx="3.2678411"
+           cy="5.7635951"
+           rx="0.120607"
+           ry="0.16535001"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           id="ellipse18" />
+        <!-- end DynamicDraw object [9], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [10], type : FDOJ_ARC -->
+        <ellipse
+           cx="2.9550171"
+           cy="5.7687621"
+           rx="0.120607"
+           ry="0.16535001"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           id="ellipse20" />
+        <!-- end DynamicDraw object [10], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [11], type : FDOJ_ARC -->
+        <ellipse
+           cx="2.655386"
+           cy="5.7558441"
+           rx="0.114953"
+           ry="0.157599"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           id="ellipse22" />
+        <!-- end DynamicDraw object [11], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [12], type : FDOJ_ARC -->
+        <ellipse
+           cx="2.353869"
+           cy="5.6860871"
+           rx="0.114953"
+           ry="0.14468101"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           id="ellipse24" />
+        <!-- end DynamicDraw object [12], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [13], type : FDOJ_ARC -->
+        <ellipse
+           cx="2.071198"
+           cy="5.5930772"
+           rx="0.119177"
+           ry="0.13955399"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(0.92261478,0.38572266,-0.22057246,0.99166004,1.3939589,-0.75226193)"
+           id="ellipse26" />
+        <!-- end DynamicDraw object [13], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [14], type : FDOJ_ARC -->
+        <ellipse
+           cx="1.8111399"
+           cy="5.4638982"
+           rx="0.120415"
+           ry="0.138118"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(0.90029562,0.43527898,-0.25411116,0.98788746,1.569016,-0.72216946)"
+           id="ellipse28" />
+        <!-- end DynamicDraw object [14], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [15], type : FDOJ_ARC -->
+        <ellipse
+           cx="1.55862"
+           cy="5.3243842"
+           rx="0.124543"
+           ry="0.133541"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(0.82679611,0.56250173,-0.35128038,0.97049825,2.1403107,-0.71964779)"
+           id="ellipse30" />
+        <!-- end DynamicDraw object [15], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [16], type : FDOJ_ARC -->
+        <ellipse
+           cx="1.340021"
+           cy="5.1642008"
+           rx="0.12753201"
+           ry="0.13041"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(0.77410921,0.63305208,-0.41454576,0.9527996,2.443496,-0.60455073)"
+           id="ellipse32" />
+        <!-- end DynamicDraw object [16], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [17], type : FDOJ_ARC -->
+        <ellipse
+           cx="1.132728"
+           cy="4.9910998"
+           rx="0.096506998"
+           ry="0.146657"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(0.99115842,0.13268376,-0.07117776,0.99939207,0.36527039,-0.14726036)"
+           id="ellipse34" />
+        <!-- end DynamicDraw object [17], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [18], type : FDOJ_ARC -->
+        <ellipse
+           cx="0.94799298"
+           cy="4.7921638"
+           rx="0.088936999"
+           ry="0.13899601"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(0.99063616,0.13652836,-0.06917341,0.99991895,0.3403672,-0.12903951)"
+           id="ellipse36" />
+        <!-- end DynamicDraw object [18], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [19], type : FDOJ_ARC -->
+        <ellipse
+           cx="0.77656198"
+           cy="4.5828228"
+           rx="0.094421998"
+           ry="0.13654201"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(0.992011,0.12615137,-0.0748635,0.99853314,0.34929012,-0.09124202)"
+           id="ellipse38" />
+        <!-- end DynamicDraw object [19], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [20], type : FDOJ_ARC -->
+        <ellipse
+           cx="0.65407097"
+           cy="4.3658018"
+           rx="0.081430003"
+           ry="0.136161"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(0.98924346,0.14627841,-0.06456273,1.0013267,0.28890362,-0.10146847)"
+           id="ellipse40" />
+        <!-- end DynamicDraw object [20], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [21], type : FDOJ_ARC -->
+        <ellipse
+           cx="0.54477102"
+           cy="4.1332779"
+           rx="0.081430003"
+           ry="0.136161"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(0.98924346,0.14627841,-0.06456273,1.0013267,0.27271555,-0.08517175)"
+           id="ellipse42" />
+        <!-- end DynamicDraw object [21], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [22], type : FDOJ_ARC -->
+        <ellipse
+           cx="0.480699"
+           cy="3.898241"
+           rx="0.073728003"
+           ry="0.113292"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(0.99095513,0.1341936,-0.07037691,0.99959709,0.27869403,-0.06293609)"
+           id="ellipse44" />
+        <!-- end DynamicDraw object [22], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [23], type : FDOJ_ARC -->
+        <ellipse
+           cx="0.42228001"
+           cy="3.6812191"
+           rx="0.071934998"
+           ry="0.118281"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(0.98960829,0.14378953,-0.06568025,1.0009575,0.24617158,-0.06424431)"
+           id="ellipse46" />
+        <!-- end DynamicDraw object [23], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [24], type : FDOJ_ARC -->
+        <ellipse
+           cx="0.407204"
+           cy="3.4228599"
+           rx="0.071934998"
+           ry="0.118281"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(0.98960829,0.14378953,-0.06568025,1.0009575,0.22904583,-0.06182915)"
+           id="ellipse48" />
+        <!-- end DynamicDraw object [24], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [25], type : FDOJ_ARC -->
+        <ellipse
+           cx="0.41097301"
+           cy="3.180002"
+           rx="0.071934998"
+           ry="0.118281"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(0.98960829,0.14378953,-0.06568025,1.0009575,0.21313402,-0.06213855)"
+           id="ellipse50" />
+        <!-- end DynamicDraw object [25], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [26], type : FDOJ_ARC -->
+        <ellipse
+           cx="0.44112501"
+           cy="2.937144"
+           rx="0.071810998"
+           ry="0.108182"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(0.99131452,0.13151245,-0.07181169,0.9992347,0.21475266,-0.05576564)"
+           id="ellipse52" />
+        <!-- end DynamicDraw object [26], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [27], type : FDOJ_ARC -->
+        <ellipse
+           cx="3.1196139"
+           cy="5.5699148"
+           rx="0.118075"
+           ry="0.172778"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           id="ellipse54" />
+        <!-- end DynamicDraw object [27], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [28], type : FDOJ_ARC -->
+        <ellipse
+           cx="2.8133559"
+           cy="5.570148"
+           rx="0.118075"
+           ry="0.172778"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           id="ellipse56" />
+        <!-- end DynamicDraw object [28], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [29], type : FDOJ_ARC -->
+        <ellipse
+           cx="2.512475"
+           cy="5.5256462"
+           rx="0.112541"
+           ry="0.16467901"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           id="ellipse58" />
+        <!-- end DynamicDraw object [29], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [30], type : FDOJ_ARC -->
+        <ellipse
+           cx="2.2172861"
+           cy="5.447588"
+           rx="0.112541"
+           ry="0.151181"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           id="ellipse60" />
+        <!-- end DynamicDraw object [30], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [31], type : FDOJ_ARC -->
+        <ellipse
+           cx="1.948085"
+           cy="5.3297319"
+           rx="0.117877"
+           ry="0.144336"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(0.91320783,0.40749413,-0.20878776,1.0018751,1.2818613,-0.80382718)"
+           id="ellipse62" />
+        <!-- end DynamicDraw object [31], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [32], type : FDOJ_ARC -->
+        <ellipse
+           cx="1.697255"
+           cy="5.2102499"
+           rx="0.119432"
+           ry="0.14245699"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(0.88865454,0.45857726,-0.24120089,1.0008285,1.4456986,-0.78263903)"
+           id="ellipse64" />
+        <!-- end DynamicDraw object [32], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [33], type : FDOJ_ARC -->
+        <ellipse
+           cx="1.457572"
+           cy="5.0437999"
+           rx="0.124585"
+           ry="0.136565"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(0.80917051,0.5875739,-0.33629104,0.99163792,1.9743325,-0.81425462)"
+           id="ellipse66" />
+        <!-- end DynamicDraw object [33], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [34], type : FDOJ_ARC -->
+        <ellipse
+           cx="1.239792"
+           cy="4.886755"
+           rx="0.128291"
+           ry="0.13262101"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(0.75338291,0.65758208,-0.39908182,0.97901205,2.255969,-0.71270205)"
+           id="ellipse68" />
+        <!-- end DynamicDraw object [34], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [35], type : FDOJ_ARC -->
+        <ellipse
+           cx="1.0556951"
+           cy="4.7058778"
+           rx="0.094596997"
+           ry="0.15305801"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(0.98994632,0.1414436,-0.06676959,1.0006157,0.32482316,-0.15221892)"
+           id="ellipse70" />
+        <!-- end DynamicDraw object [35], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [36], type : FDOJ_ARC -->
+        <ellipse
+           cx="0.88614398"
+           cy="4.508338"
+           rx="0.087182999"
+           ry="0.145052"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(0.98935361,0.14553158,-0.06489405,1.0012152,0.30199854,-0.13444046)"
+           id="ellipse72" />
+        <!-- end DynamicDraw object [36], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [37], type : FDOJ_ARC -->
+        <ellipse
+           cx="0.740924"
+           cy="4.2947602"
+           rx="0.092542998"
+           ry="0.142518"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(0.99091417,0.13449574,-0.07021882,0.99963841,0.30830487,-0.09809818)"
+           id="ellipse74" />
+        <!-- end DynamicDraw object [37], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [38], type : FDOJ_ARC -->
+        <ellipse
+           cx="0.62477303"
+           cy="4.0783229"
+           rx="0.079839997"
+           ry="0.142067"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(0.98777367,0.15589476,-0.06058019,1.0028166,0.25470427,-0.10888597)"
+           id="ellipse76" />
+        <!-- end DynamicDraw object [38], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [39], type : FDOJ_ARC -->
+        <ellipse
+           cx="0.52907401"
+           cy="3.8405211"
+           rx="0.079839997"
+           ry="0.142067"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(0.98777367,0.15589476,-0.06058019,1.0028166,0.23912813,-0.0932972)"
+           id="ellipse78" />
+        <!-- end DynamicDraw object [39], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [40], type : FDOJ_ARC -->
+        <ellipse
+           cx="0.473885"
+           cy="3.594924"
+           rx="0.072270997"
+           ry="0.118234"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(0.98971559,0.14304913,-0.06602021,1.000849,0.24221126,-0.07084096)"
+           id="ellipse80" />
+        <!-- end DynamicDraw object [40], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [41], type : FDOJ_ARC -->
+        <ellipse
+           cx="0.431768"
+           cy="3.3733201"
+           rx="0.070527002"
+           ry="0.123417"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(0.98818746,0.15324995,-0.06162569,1.0023967,0.21298346,-0.07425332)"
+           id="ellipse82" />
+        <!-- end DynamicDraw object [41], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [42], type : FDOJ_ARC -->
+        <ellipse
+           cx="0.43208399"
+           cy="3.12919"
+           rx="0.070527002"
+           ry="0.123417"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(0.98818746,0.15324995,-0.06162569,1.0023967,0.19794251,-0.07371664)"
+           id="ellipse84" />
+        <!-- end DynamicDraw object [42], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [43], type : FDOJ_ARC -->
+        <ellipse
+           cx="0.46973401"
+           cy="2.78758"
+           rx="0.064225003"
+           ry="0.120878"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(0.94711473,0.32089514,-0.14223574,1.0076469,0.42133551,-0.17205177)"
+           id="ellipse86" />
+        <!-- end DynamicDraw object [43], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [44], type : FDOJ_ARC -->
+        <ellipse
+           cx="6.0243711"
+           cy="2.5999351"
+           rx="0.044362001"
+           ry="0.101386"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(-0.87120987,0.49091075,-0.21626522,-1.0259676,11.835138,2.3099555)"
+           id="ellipse88" />
+        <!-- end DynamicDraw object [44], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [45], type : FDOJ_ARC -->
+        <ellipse
+           cx="3.570781"
+           cy="5.7687621"
+           rx="0.120607"
+           ry="0.16535001"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="rotate(180,3.570781,5.768762)"
+           id="ellipse90" />
+        <!-- end DynamicDraw object [45], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [46], type : FDOJ_ARC -->
+        <ellipse
+           cx="3.8704131"
+           cy="5.7558441"
+           rx="0.114953"
+           ry="0.157599"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="rotate(180,3.870413,5.755844)"
+           id="ellipse92" />
+        <!-- end DynamicDraw object [46], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [47], type : FDOJ_ARC -->
+        <ellipse
+           cx="4.1719298"
+           cy="5.6860871"
+           rx="0.114953"
+           ry="0.14468101"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="rotate(180,4.17193,5.686087)"
+           id="ellipse94" />
+        <!-- end DynamicDraw object [47], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [48], type : FDOJ_ARC -->
+        <ellipse
+           cx="4.4546008"
+           cy="5.5930772"
+           rx="0.119177"
+           ry="0.13955399"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(-0.92261478,0.38572266,-0.22057246,-0.99166004,9.7981605,9.4212674)"
+           id="ellipse96" />
+        <!-- end DynamicDraw object [48], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [49], type : FDOJ_ARC -->
+        <ellipse
+           cx="4.7146592"
+           cy="5.4638982"
+           rx="0.120415"
+           ry="0.138118"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(-0.90029562,0.43527898,-0.25411116,-0.98788746,10.347683,8.8094223)"
+           id="ellipse98" />
+        <!-- end DynamicDraw object [49], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [50], type : FDOJ_ARC -->
+        <ellipse
+           cx="4.9671788"
+           cy="5.3243842"
+           rx="0.124543"
+           ry="0.133541"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(-0.82679611,0.56250173,-0.35128038,-0.97049825,10.944375,7.6976426)"
+           id="ellipse100" />
+        <!-- end DynamicDraw object [50], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [51], type : FDOJ_ARC -->
+        <ellipse
+           cx="5.1857781"
+           cy="5.1642008"
+           rx="0.12753201"
+           ry="0.13041"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(-0.77410921,0.63305208,-0.41454576,-0.9527996,11.340934,6.8017821)"
+           id="ellipse102" />
+        <!-- end DynamicDraw object [51], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [52], type : FDOJ_ARC -->
+        <ellipse
+           cx="5.3930712"
+           cy="4.9910998"
+           rx="0.096506998"
+           ry="0.146657"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(-0.99115842,0.13268376,-0.07117776,-0.99939207,11.093714,9.2635928)"
+           id="ellipse104" />
+        <!-- end DynamicDraw object [52], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [53], type : FDOJ_ARC -->
+        <ellipse
+           cx="5.577806"
+           cy="4.7921638"
+           rx="0.088936999"
+           ry="0.13899601"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(-0.99063616,0.13652836,-0.06917341,-0.99991895,11.434873,8.8224109)"
+           id="ellipse106" />
+        <!-- end DynamicDraw object [53], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [54], type : FDOJ_ARC -->
+        <ellipse
+           cx="5.7492371"
+           cy="4.5828228"
+           rx="0.094421998"
+           ry="0.13654201"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(-0.992011,0.12615137,-0.0748635,-0.99853314,11.79563,8.4336495)"
+           id="ellipse108" />
+        <!-- end DynamicDraw object [54], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [55], type : FDOJ_ARC -->
+        <ellipse
+           cx="5.8717279"
+           cy="4.3658018"
+           rx="0.081430003"
+           ry="0.136161"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(-0.98924346,0.14627841,-0.06456273,-1.0013267,11.962165,7.878489)"
+           id="ellipse110" />
+        <!-- end DynamicDraw object [55], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [56], type : FDOJ_ARC -->
+        <ellipse
+           cx="5.9810281"
+           cy="4.1332779"
+           rx="0.081430003"
+           ry="0.136161"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(-0.98924346,0.14627841,-0.06456273,-1.0013267,12.164577,7.3971443)"
+           id="ellipse112" />
+        <!-- end DynamicDraw object [56], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [57], type : FDOJ_ARC -->
+        <ellipse
+           cx="6.0451002"
+           cy="3.898241"
+           rx="0.073728003"
+           ry="0.113292"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(-0.99095513,0.1341936,-0.07037691,-0.99959709,12.309869,6.9836977)"
+           id="ellipse114" />
+        <!-- end DynamicDraw object [57], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [58], type : FDOJ_ARC -->
+        <ellipse
+           cx="6.103519"
+           cy="3.6812191"
+           rx="0.071934998"
+           ry="0.118281"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(-0.98960829,0.14378953,-0.06568025,-1.0009575,12.385395,6.4883407)"
+           id="ellipse116" />
+        <!-- end DynamicDraw object [58], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [59], type : FDOJ_ARC -->
+        <ellipse
+           cx="6.1185951"
+           cy="3.4228599"
+           rx="0.071934998"
+           ry="0.118281"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(-0.98960829,0.14378953,-0.06568025,-1.0009575,12.398422,5.9692076)"
+           id="ellipse118" />
+        <!-- end DynamicDraw object [59], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [60], type : FDOJ_ARC -->
+        <ellipse
+           cx="6.1148262"
+           cy="3.180002"
+           rx="0.071934998"
+           ry="0.118281"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(-0.98960829,0.14378953,-0.06568025,-1.0009575,12.374972,5.483801)"
+           id="ellipse120" />
+        <!-- end DynamicDraw object [60], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [61], type : FDOJ_ARC -->
+        <ellipse
+           cx="6.0846739"
+           cy="2.937144"
+           rx="0.071810998"
+           ry="0.108182"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(-0.99131452,0.13151245,-0.07181169,-0.9992347,12.327421,5.0718298)"
+           id="ellipse122" />
+        <!-- end DynamicDraw object [61], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [62], type : FDOJ_ARC -->
+        <ellipse
+           cx="3.4061849"
+           cy="5.5699148"
+           rx="0.118075"
+           ry="0.172778"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="rotate(180,3.406185,5.569915)"
+           id="ellipse124" />
+        <!-- end DynamicDraw object [62], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [63], type : FDOJ_ARC -->
+        <ellipse
+           cx="3.7124431"
+           cy="5.570148"
+           rx="0.118075"
+           ry="0.172778"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="rotate(180,3.712443,5.570148)"
+           id="ellipse126" />
+        <!-- end DynamicDraw object [63], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [64], type : FDOJ_ARC -->
+        <ellipse
+           cx="4.0133238"
+           cy="5.5256462"
+           rx="0.112541"
+           ry="0.16467901"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="rotate(180,4.013324,5.525646)"
+           id="ellipse128" />
+        <!-- end DynamicDraw object [64], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [65], type : FDOJ_ARC -->
+        <ellipse
+           cx="4.3085122"
+           cy="5.447588"
+           rx="0.112541"
+           ry="0.151181"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="rotate(180,4.308512,5.447588)"
+           id="ellipse130" />
+        <!-- end DynamicDraw object [65], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [66], type : FDOJ_ARC -->
+        <ellipse
+           cx="4.577713"
+           cy="5.3297319"
+           rx="0.117877"
+           ry="0.144336"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(-0.91320783,0.40749413,-0.20878776,-1.0018751,9.8708991,8.8040668)"
+           id="ellipse132" />
+        <!-- end DynamicDraw object [66], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [67], type : FDOJ_ARC -->
+        <ellipse
+           cx="4.8285441"
+           cy="5.2102499"
+           rx="0.119432"
+           ry="0.14245699"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(-0.88865454,0.45857726,-0.24120089,-1.0008285,10.376168,8.210556)"
+           id="ellipse134" />
+        <!-- end DynamicDraw object [67], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [68], type : FDOJ_ARC -->
+        <ellipse
+           cx="5.0682268"
+           cy="5.0437999"
+           rx="0.124585"
+           ry="0.136565"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(-0.80917051,0.5875739,-0.33629104,-0.99163792,10.865472,7.0674655)"
+           id="ellipse136" />
+        <!-- end DynamicDraw object [68], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [69], type : FDOJ_ARC -->
+        <ellipse
+           cx="5.2860069"
+           cy="4.886755"
+           rx="0.128291"
+           ry="0.13262101"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(-0.75338291,0.65758208,-0.39908182,-0.97901205,11.218609,6.1949636)"
+           id="ellipse138" />
+        <!-- end DynamicDraw object [69], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [70], type : FDOJ_ARC -->
+        <ellipse
+           cx="5.4701042"
+           cy="4.7058778"
+           rx="0.094596997"
+           ry="0.15305801"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(-0.98994632,0.1414436,-0.06676959,-1.0006157,11.199423,8.6409424)"
+           id="ellipse140" />
+        <!-- end DynamicDraw object [70], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [71], type : FDOJ_ARC -->
+        <ellipse
+           cx="5.6396551"
+           cy="4.508338"
+           rx="0.087182999"
+           ry="0.145052"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(-0.98935361,0.14553158,-0.06489405,-1.0012152,11.511832,8.2014066)"
+           id="ellipse142" />
+        <!-- end DynamicDraw object [71], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [72], type : FDOJ_ARC -->
+        <ellipse
+           cx="5.7848749"
+           cy="4.2947602"
+           rx="0.092542998"
+           ry="0.142518"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(-0.99091417,0.13449574,-0.07021882,-0.99963841,11.818763,7.809926)"
+           id="ellipse144" />
+        <!-- end DynamicDraw object [72], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [73], type : FDOJ_ARC -->
+        <ellipse
+           cx="5.9010258"
+           cy="4.0783229"
+           rx="0.079839997"
+           ry="0.142067"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(-0.98777367,0.15589476,-0.06058019,-1.0028166,11.97697,7.2481941)"
+           id="ellipse146" />
+        <!-- end DynamicDraw object [73], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [74], type : FDOJ_ARC -->
+        <ellipse
+           cx="5.9967251"
+           cy="3.8405211"
+           rx="0.079839997"
+           ry="0.142067"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(-0.98777367,0.15589476,-0.06058019,-1.0028166,12.152792,6.7570013)"
+           id="ellipse148" />
+        <!-- end DynamicDraw object [74], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [75], type : FDOJ_ARC -->
+        <ellipse
+           cx="6.0519142"
+           cy="3.594924"
+           rx="0.072270997"
+           ry="0.118234"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(-0.98971559,0.14304913,-0.06602021,-1.000849,12.278925,6.3271791)"
+           id="ellipse150" />
+        <!-- end DynamicDraw object [75], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [76], type : FDOJ_ARC -->
+        <ellipse
+           cx="6.0940309"
+           cy="3.3733201"
+           rx="0.070527002"
+           ry="0.123417"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(-0.98818746,0.15324995,-0.06162569,-1.0023967,12.323959,5.820815)"
+           id="ellipse152" />
+        <!-- end DynamicDraw object [76], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [77], type : FDOJ_ARC -->
+        <ellipse
+           cx="6.0937152"
+           cy="3.12919"
+           rx="0.070527002"
+           ry="0.123417"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(-0.98818746,0.15324995,-0.06162569,-1.0023967,12.308286,5.3320183)"
+           id="ellipse154" />
+        <!-- end DynamicDraw object [77], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [78], type : FDOJ_ARC -->
+        <ellipse
+           cx="6.0560651"
+           cy="2.78758"
+           rx="0.064225003"
+           ry="0.120878"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           transform="matrix(-0.94711473,0.32089514,-0.14223574,-1.0076469,12.188347,3.6531146)"
+           id="ellipse156" />
+        <!-- end DynamicDraw object [78], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [79], type : FDOJ_GROUP -->
+        <g
+           id="g308">
+          <!-- group -->
+          <!-- start DynamicDraw object [79], type : FDOJ_POLY -->
+          <path
+             d="m 0.952405,5.983002 c 0.577646,0.940896 1.46326,1.318494 2.348536,1.295074 1.11566,-0.029515 1.951914,-0.724097 2.274444,-1.252973 0,0 -0.013773,0.019677 -0.013773,0.019677 C 4.847518,6.738938 4.284768,7.154831 3.265325,7.134489 2.41156,7.117453 1.752396,6.95538 0.950928,5.980679"
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+             id="path158"
+             inkscape:connector-curvature="0" />
+          <!-- end DynamicDraw object [79], type : FDOJ_POLY -->
+          <!-- start DynamicDraw object [80], type : FDOJ_GROUP -->
+          <g
+             id="g232">
+            <!-- group -->
+            <!-- start DynamicDraw object [80], type : FDOJ_ARC -->
+            <ellipse
+               cx="3.261534"
+               cy="7.2416739"
+               rx="0.055094"
+               ry="0.040337"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               id="ellipse160" />
+            <!-- end DynamicDraw object [80], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [81], type : FDOJ_ARC -->
+            <ellipse
+               cx="3.087568"
+               cy="7.2416739"
+               rx="0.055094"
+               ry="0.040337"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               id="ellipse162" />
+            <!-- end DynamicDraw object [81], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [82], type : FDOJ_ARC -->
+            <ellipse
+               cx="2.8916681"
+               cy="7.2259331"
+               rx="0.055094"
+               ry="0.040337"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="rotate(-1.440868,2.891668,7.225933)"
+               id="ellipse164" />
+            <!-- end DynamicDraw object [82], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [83], type : FDOJ_ARC -->
+            <ellipse
+               cx="2.710644"
+               cy="7.2003531"
+               rx="0.055094"
+               ry="0.040337"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="rotate(7.30576,2.710644,7.200353)"
+               id="ellipse166" />
+            <!-- end DynamicDraw object [83], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [84], type : FDOJ_ARC -->
+            <ellipse
+               cx="2.5433929"
+               cy="7.1531301"
+               rx="0.055094"
+               ry="0.040337"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="rotate(15.655782,2.543393,7.15313)"
+               id="ellipse168" />
+            <!-- end DynamicDraw object [84], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [85], type : FDOJ_ARC -->
+            <ellipse
+               cx="2.3663039"
+               cy="7.105906"
+               rx="0.055094"
+               ry="0.040337"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="rotate(10.101876,2.366304,7.105906)"
+               id="ellipse170" />
+            <!-- end DynamicDraw object [85], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [86], type : FDOJ_ARC -->
+            <ellipse
+               cx="2.212827"
+               cy="7.0561881"
+               rx="0.053126998"
+               ry="0.038895998"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="rotate(6.863796,2.212827,7.056188)"
+               id="ellipse172" />
+            <!-- end DynamicDraw object [86], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [87], type : FDOJ_ARC -->
+            <ellipse
+               cx="2.0642691"
+               cy="6.9821372"
+               rx="0.052143"
+               ry="0.038176"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="rotate(10.606183,2.064269,6.982137)"
+               id="ellipse174" />
+            <!-- end DynamicDraw object [87], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [88], type : FDOJ_ARC -->
+            <ellipse
+               cx="1.914271"
+               cy="6.899302"
+               rx="0.049718998"
+               ry="0.036401998"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="rotate(4.894156,1.914271,6.899302)"
+               id="ellipse176" />
+            <!-- end DynamicDraw object [88], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [89], type : FDOJ_ARC -->
+            <ellipse
+               cx="1.77188"
+               cy="6.8284669"
+               rx="0.047031999"
+               ry="0.034433998"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="rotate(4.517495,1.77188,6.828467)"
+               id="ellipse178" />
+            <!-- end DynamicDraw object [89], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [90], type : FDOJ_ARC -->
+            <ellipse
+               cx="1.659916"
+               cy="6.753696"
+               rx="0.043288"
+               ry="0.034433998"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="rotate(6.826862,1.659916,6.753696)"
+               id="ellipse180" />
+            <!-- end DynamicDraw object [90], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [91], type : FDOJ_ARC -->
+            <ellipse
+               cx="1.5536619"
+               cy="6.6710539"
+               rx="0.039352998"
+               ry="0.034433998"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="rotate(2.143761,1.553662,6.671054)"
+               id="ellipse182" />
+            <!-- end DynamicDraw object [91], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [92], type : FDOJ_ARC -->
+            <ellipse
+               cx="1.474956"
+               cy="6.6120238"
+               rx="0.039352998"
+               ry="0.034433998"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               id="ellipse184" />
+            <!-- end DynamicDraw object [92], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [93], type : FDOJ_ARC -->
+            <ellipse
+               cx="1.4169101"
+               cy="6.5405741"
+               rx="0.031851001"
+               ry="0.027547"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="rotate(90,1.41691,6.540574)"
+               id="ellipse186" />
+            <!-- end DynamicDraw object [93], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [94], type : FDOJ_ARC -->
+            <ellipse
+               cx="1.354929"
+               cy="6.4868989"
+               rx="0.029515"
+               ry="0.031304002"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               id="ellipse188" />
+            <!-- end DynamicDraw object [94], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [95], type : FDOJ_ARC -->
+            <ellipse
+               cx="1.286061"
+               cy="6.4162431"
+               rx="0.021644"
+               ry="0.03345"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="rotate(-6.826862,1.286061,6.416243)"
+               id="ellipse190" />
+            <!-- end DynamicDraw object [95], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [96], type : FDOJ_ARC -->
+            <ellipse
+               cx="1.1876791"
+               cy="6.314908"
+               rx="0.021644"
+               ry="0.042305"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="rotate(-18,1.187679,6.314908)"
+               id="ellipse192" />
+            <!-- end DynamicDraw object [96], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [97], type : FDOJ_ARC -->
+            <ellipse
+               cx="1.2368701"
+               cy="6.3650842"
+               rx="0.021644"
+               ry="0.035418"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="rotate(-14.381395,1.23687,6.365084)"
+               id="ellipse194" />
+            <!-- end DynamicDraw object [97], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [98], type : FDOJ_ARC -->
+            <ellipse
+               cx="3.1770301"
+               cy="7.194171"
+               rx="0.055126"
+               ry="0.043561"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               id="ellipse196" />
+            <!-- end DynamicDraw object [98], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [99], type : FDOJ_ARC -->
+            <ellipse
+               cx="2.9998169"
+               cy="7.1860561"
+               rx="0.055126"
+               ry="0.043561"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               id="ellipse198" />
+            <!-- end DynamicDraw object [99], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [100], type : FDOJ_ARC -->
+            <ellipse
+               cx="2.8037751"
+               cy="7.1604152"
+               rx="0.055128999"
+               ry="0.043558002"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="matrix(0.99963171,-0.02713765,0.0232991,0.99973591,-0.1657986,0.07797884)"
+               id="ellipse200" />
+            <!-- end DynamicDraw object [100], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [101], type : FDOJ_ARC -->
+            <ellipse
+               cx="2.6226461"
+               cy="7.132791"
+               rx="0.055199999"
+               ry="0.043503001"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="matrix(0.99056207,0.1370649,-0.11797888,0.99320302,0.86627104,-0.31099126)"
+               id="ellipse202" />
+            <!-- end DynamicDraw object [101], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [102], type : FDOJ_ARC -->
+            <ellipse
+               cx="2.4572661"
+               cy="7.0935998"
+               rx="0.055456001"
+               ry="0.043301001"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="matrix(0.9571713,0.2895222,-0.25152828,0.96866358,1.8894825,-0.48914504)"
+               id="ellipse204" />
+            <!-- end DynamicDraw object [102], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [103], type : FDOJ_ARC -->
+            <ellipse
+               cx="2.2840099"
+               cy="7.0406342"
+               rx="0.055266"
+               ry="0.043451"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="matrix(0.98201008,0.18882851,-0.16292454,0.98699109,1.1881812,-0.33969525)"
+               id="ellipse206" />
+            <!-- end DynamicDraw object [103], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [104], type : FDOJ_ARC -->
+            <ellipse
+               cx="2.1402819"
+               cy="6.9889102"
+               rx="0.05322"
+               ry="0.041955002"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="matrix(0.99166616,0.12883412,-0.11085978,0.99400133,0.79262581,-0.23381717)"
+               id="ellipse208" />
+            <!-- end DynamicDraw object [104], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [105], type : FDOJ_ARC -->
+            <ellipse
+               cx="1.9916379"
+               cy="6.92665"
+               rx="0.052319001"
+               ry="0.041111998"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="matrix(0.98018195,0.19809935,-0.17101085,0.98565666,1.2240027,-0.29519087)"
+               id="ellipse210" />
+            <!-- end DynamicDraw object [105], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [106], type : FDOJ_ARC -->
+            <ellipse
+               cx="1.8474571"
+               cy="6.8450661"
+               rx="0.049778"
+               ry="0.039287001"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="matrix(0.9957567,0.09202495,-0.07909484,0.99695166,0.54924874,-0.14914609)"
+               id="ellipse212" />
+            <!-- end DynamicDraw object [106], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [107], type : FDOJ_ARC -->
+            <ellipse
+               cx="1.712854"
+               cy="6.780376"
+               rx="0.047083002"
+               ry="0.037167002"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="matrix(0.9963839,0.08496541,-0.07301427,0.99740302,0.50125808,-0.12792485)"
+               id="ellipse214" />
+            <!-- end DynamicDraw object [107], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [108], type : FDOJ_ARC -->
+            <ellipse
+               cx="1.6106631"
+               cy="6.7015972"
+               rx="0.043364"
+               ry="0.037142999"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="matrix(0.99175534,0.12814578,-0.11026471,0.99406578,0.75222898,-0.16663088)"
+               id="ellipse216" />
+            <!-- end DynamicDraw object [108], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [109], type : FDOJ_ARC -->
+            <ellipse
+               cx="1.531895"
+               cy="6.6333499"
+               rx="0.039367002"
+               ry="0.028001999"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="matrix(0.99953776,0.03040166,-0.04602645,0.99906252,0.30601767,-0.04035353)"
+               id="ellipse218" />
+            <!-- end DynamicDraw object [109], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [110], type : FDOJ_ARC -->
+            <ellipse
+               cx="1.453143"
+               cy="6.5696001"
+               rx="0.039376002"
+               ry="0.027995"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               id="ellipse220" />
+            <!-- end DynamicDraw object [110], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [111], type : FDOJ_ARC -->
+            <ellipse
+               cx="1.3960479"
+               cy="6.5021291"
+               rx="0.029595001"
+               ry="0.031500999"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="rotate(90,1.396048,6.502129)"
+               id="ellipse222" />
+            <!-- end DynamicDraw object [111], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [112], type : FDOJ_ARC -->
+            <ellipse
+               cx="1.330093"
+               cy="6.4378562"
+               rx="0.032485001"
+               ry="0.027995"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               id="ellipse224" />
+            <!-- end DynamicDraw object [112], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [113], type : FDOJ_ARC -->
+            <ellipse
+               cx="1.272014"
+               cy="6.3727469"
+               rx="0.021605"
+               ry="0.027261"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="matrix(0.99530208,-0.09681823,0.14594316,0.99052344,-0.92408304,0.18354585)"
+               id="ellipse226" />
+            <!-- end DynamicDraw object [113], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [114], type : FDOJ_ARC -->
+            <ellipse
+               cx="1.217838"
+               cy="6.335278"
+               rx="0.021303"
+               ry="0.034965999"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="matrix(0.96687186,-0.25526223,0.37409178,0.93549987,-2.3296307,0.7194943)"
+               id="ellipse228" />
+            <!-- end DynamicDraw object [114], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [115], type : FDOJ_ARC -->
+            <ellipse
+               cx="1.14605"
+               cy="6.2583928"
+               rx="0.021767"
+               ry="0.038054999"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="matrix(0.96377498,-0.26671669,0.23129528,0.97357756,-1.4060211,0.4710327)"
+               id="ellipse230" />
+            <!-- end DynamicDraw object [115], type : FDOJ_ARC -->
+          </g>
+          <!-- group -->
+          <!-- end DynamicDraw object [80], type : FDOJ_GROUP -->
+          <!-- start DynamicDraw object [81], type : FDOJ_GROUP -->
+          <g
+             id="g306">
+            <!-- group -->
+            <!-- start DynamicDraw object [81], type : FDOJ_ARC -->
+            <ellipse
+               cx="3.262017"
+               cy="7.2416739"
+               rx="0.055094"
+               ry="0.040337"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="rotate(180,3.262017,7.241674)"
+               id="ellipse234" />
+            <!-- end DynamicDraw object [81], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [82], type : FDOJ_ARC -->
+            <ellipse
+               cx="3.4359829"
+               cy="7.2416739"
+               rx="0.055094"
+               ry="0.040337"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="rotate(180,3.435983,7.241674)"
+               id="ellipse236" />
+            <!-- end DynamicDraw object [82], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [83], type : FDOJ_ARC -->
+            <ellipse
+               cx="3.6318829"
+               cy="7.2259331"
+               rx="0.055094"
+               ry="0.040337"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="rotate(-178.55913,3.631883,7.225933)"
+               id="ellipse238" />
+            <!-- end DynamicDraw object [83], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [84], type : FDOJ_ARC -->
+            <ellipse
+               cx="3.812907"
+               cy="7.2003531"
+               rx="0.055094"
+               ry="0.040337"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="rotate(172.69424,3.812907,7.200353)"
+               id="ellipse240" />
+            <!-- end DynamicDraw object [84], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [85], type : FDOJ_ARC -->
+            <ellipse
+               cx="3.9801581"
+               cy="7.1531301"
+               rx="0.055094"
+               ry="0.040337"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="rotate(164.34422,3.980158,7.15313)"
+               id="ellipse242" />
+            <!-- end DynamicDraw object [85], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [86], type : FDOJ_ARC -->
+            <ellipse
+               cx="4.1572471"
+               cy="7.105906"
+               rx="0.055094"
+               ry="0.040337"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="rotate(169.89812,4.157247,7.105906)"
+               id="ellipse244" />
+            <!-- end DynamicDraw object [86], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [87], type : FDOJ_ARC -->
+            <ellipse
+               cx="4.3107238"
+               cy="7.0561881"
+               rx="0.053126998"
+               ry="0.038895998"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="rotate(173.1362,4.310724,7.056188)"
+               id="ellipse246" />
+            <!-- end DynamicDraw object [87], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [88], type : FDOJ_ARC -->
+            <ellipse
+               cx="4.4592819"
+               cy="6.9821372"
+               rx="0.052143"
+               ry="0.038176"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="rotate(169.39382,4.459282,6.982137)"
+               id="ellipse248" />
+            <!-- end DynamicDraw object [88], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [89], type : FDOJ_ARC -->
+            <ellipse
+               cx="4.6092801"
+               cy="6.899302"
+               rx="0.049718998"
+               ry="0.036401998"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="rotate(175.10584,4.60928,6.899302)"
+               id="ellipse250" />
+            <!-- end DynamicDraw object [89], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [90], type : FDOJ_ARC -->
+            <ellipse
+               cx="4.7516708"
+               cy="6.8284669"
+               rx="0.047031999"
+               ry="0.034433998"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="rotate(175.4825,4.751671,6.828467)"
+               id="ellipse252" />
+            <!-- end DynamicDraw object [90], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [91], type : FDOJ_ARC -->
+            <ellipse
+               cx="4.8636351"
+               cy="6.753696"
+               rx="0.043288"
+               ry="0.034433998"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="rotate(173.17314,4.863635,6.753696)"
+               id="ellipse254" />
+            <!-- end DynamicDraw object [91], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [92], type : FDOJ_ARC -->
+            <ellipse
+               cx="4.9698892"
+               cy="6.6710539"
+               rx="0.039352998"
+               ry="0.034433998"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="rotate(177.85624,4.969889,6.671054)"
+               id="ellipse256" />
+            <!-- end DynamicDraw object [92], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [93], type : FDOJ_ARC -->
+            <ellipse
+               cx="5.048595"
+               cy="6.6120238"
+               rx="0.039352998"
+               ry="0.034433998"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="rotate(180,5.048595,6.612024)"
+               id="ellipse258" />
+            <!-- end DynamicDraw object [93], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [94], type : FDOJ_ARC -->
+            <ellipse
+               cx="5.1066408"
+               cy="6.5405741"
+               rx="0.031851001"
+               ry="0.027547"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="rotate(90,5.106641,6.540574)"
+               id="ellipse260" />
+            <!-- end DynamicDraw object [94], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [95], type : FDOJ_ARC -->
+            <ellipse
+               cx="5.168622"
+               cy="6.4868989"
+               rx="0.029515"
+               ry="0.031304002"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="rotate(180,5.168622,6.486899)"
+               id="ellipse262" />
+            <!-- end DynamicDraw object [95], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [96], type : FDOJ_ARC -->
+            <ellipse
+               cx="5.2374902"
+               cy="6.4162431"
+               rx="0.021644"
+               ry="0.03345"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="rotate(-173.17314,5.23749,6.416243)"
+               id="ellipse264" />
+            <!-- end DynamicDraw object [96], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [97], type : FDOJ_ARC -->
+            <ellipse
+               cx="5.3358731"
+               cy="6.314908"
+               rx="0.021644"
+               ry="0.042305"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="rotate(-162,5.335873,6.314908)"
+               id="ellipse266" />
+            <!-- end DynamicDraw object [97], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [98], type : FDOJ_ARC -->
+            <ellipse
+               cx="5.2866812"
+               cy="6.3650842"
+               rx="0.021644"
+               ry="0.035418"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="rotate(-165.6186,5.286681,6.365084)"
+               id="ellipse268" />
+            <!-- end DynamicDraw object [98], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [99], type : FDOJ_ARC -->
+            <ellipse
+               cx="3.3465209"
+               cy="7.194171"
+               rx="0.055126"
+               ry="0.043561"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="rotate(180,3.346521,7.194171)"
+               id="ellipse270" />
+            <!-- end DynamicDraw object [99], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [100], type : FDOJ_ARC -->
+            <ellipse
+               cx="3.523735"
+               cy="7.1860561"
+               rx="0.055126"
+               ry="0.043561"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="rotate(180,3.523735,7.186056)"
+               id="ellipse272" />
+            <!-- end DynamicDraw object [100], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [101], type : FDOJ_ARC -->
+            <ellipse
+               cx="3.7197759"
+               cy="7.1604152"
+               rx="0.055128999"
+               ry="0.043558002"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="matrix(-0.99963171,-0.02713765,0.0232991,-0.99973591,7.2713508,14.419885)"
+               id="ellipse274" />
+            <!-- end DynamicDraw object [101], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [102], type : FDOJ_ARC -->
+            <ellipse
+               cx="3.9009049"
+               cy="7.132791"
+               rx="0.055199999"
+               ry="0.043503001"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="matrix(-0.99056207,0.1370649,-0.11797888,-0.99320302,8.6065122,13.682423)"
+               id="ellipse276" />
+            <!-- end DynamicDraw object [102], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [103], type : FDOJ_ARC -->
+            <ellipse
+               cx="4.0662851"
+               cy="7.0935998"
+               rx="0.055456001"
+               ry="0.043301001"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="matrix(-0.9571713,0.2895222,-0.25152828,-0.96866358,9.7426573,12.787632)"
+               id="ellipse278" />
+            <!-- end DynamicDraw object [103], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [104], type : FDOJ_ARC -->
+            <ellipse
+               cx="4.2395411"
+               cy="7.0406342"
+               rx="0.055266"
+               ry="0.043451"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="matrix(-0.98201008,0.18882851,-0.16292454,-0.98699109,9.5499051,13.189131)"
+               id="ellipse280" />
+            <!-- end DynamicDraw object [104], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [105], type : FDOJ_ARC -->
+            <ellipse
+               cx="4.3832688"
+               cy="6.9889102"
+               rx="0.05322"
+               ry="0.041955002"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="matrix(-0.99166616,0.12883412,-0.11085978,-0.99400133,9.5047976,13.371181)"
+               id="ellipse282" />
+            <!-- end DynamicDraw object [105], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [106], type : FDOJ_ARC -->
+            <ellipse
+               cx="4.5319128"
+               cy="6.92665"
+               rx="0.052319001"
+               ry="0.041111998"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="matrix(-0.98018195,0.19809935,-0.17101085,-0.98565666,10.158545,12.85618)"
+               id="ellipse284" />
+            <!-- end DynamicDraw object [106], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [107], type : FDOJ_ARC -->
+            <ellipse
+               cx="4.676095"
+               cy="6.8450661"
+               rx="0.049778"
+               ry="0.039287001"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="matrix(-0.9957567,0.09202495,-0.07909484,-0.99695166,9.8737574,13.238949)"
+               id="ellipse286" />
+            <!-- end DynamicDraw object [107], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [108], type : FDOJ_ARC -->
+            <ellipse
+               cx="4.810698"
+               cy="6.780376"
+               rx="0.047083002"
+               ry="0.037167002"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="matrix(-0.9963839,0.08496541,-0.07301427,-0.99740302,10.099064,13.134401)"
+               id="ellipse288" />
+            <!-- end DynamicDraw object [108], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [109], type : FDOJ_ARC -->
+            <ellipse
+               cx="4.912889"
+               cy="6.7015972"
+               rx="0.043364"
+               ry="0.037142999"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="matrix(-0.99175534,0.12814578,-0.11026471,-0.99406578,10.524223,12.733859)"
+               id="ellipse290" />
+            <!-- end DynamicDraw object [109], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [110], type : FDOJ_ARC -->
+            <ellipse
+               cx="4.9916558"
+               cy="6.6333499"
+               rx="0.039367002"
+               ry="0.028001999"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="matrix(-0.99953776,0.03040166,-0.04602645,-0.99906252,10.286314,13.108727)"
+               id="ellipse292" />
+            <!-- end DynamicDraw object [110], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [111], type : FDOJ_ARC -->
+            <ellipse
+               cx="5.0704079"
+               cy="6.5696001"
+               rx="0.039376002"
+               ry="0.027995"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="rotate(180,5.070408,6.5696)"
+               id="ellipse294" />
+            <!-- end DynamicDraw object [111], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [112], type : FDOJ_ARC -->
+            <ellipse
+               cx="5.1275029"
+               cy="6.5021291"
+               rx="0.029595001"
+               ry="0.031500999"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="rotate(90,5.127503,6.502129)"
+               id="ellipse296" />
+            <!-- end DynamicDraw object [112], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [113], type : FDOJ_ARC -->
+            <ellipse
+               cx="5.1934581"
+               cy="6.4378562"
+               rx="0.032485001"
+               ry="0.027995"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="rotate(180,5.193458,6.437856)"
+               id="ellipse298" />
+            <!-- end DynamicDraw object [113], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [114], type : FDOJ_ARC -->
+            <ellipse
+               cx="5.2515368"
+               cy="6.3727469"
+               rx="0.021605"
+               ry="0.027261"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="matrix(-0.99530208,-0.09681823,0.14594316,-0.99052344,9.5483438,13.193547)"
+               id="ellipse300" />
+            <!-- end DynamicDraw object [114], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [115], type : FDOJ_ARC -->
+            <ellipse
+               cx="5.3057132"
+               cy="6.335278"
+               rx="0.021303"
+               ry="0.034965999"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="matrix(-0.96687186,-0.25526223,0.37409178,-0.93549987,8.0656822,13.616278)"
+               id="ellipse302" />
+            <!-- end DynamicDraw object [115], type : FDOJ_ARC -->
+            <!-- start DynamicDraw object [116], type : FDOJ_ARC -->
+            <ellipse
+               cx="5.377502"
+               cy="6.2583928"
+               rx="0.021767"
+               ry="0.038054999"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               transform="matrix(-0.96377498,-0.26671669,0.23129528,-0.97357756,9.1126671,13.785694)"
+               id="ellipse304" />
+            <!-- end DynamicDraw object [116], type : FDOJ_ARC -->
+          </g>
+          <!-- group -->
+          <!-- end DynamicDraw object [81], type : FDOJ_GROUP -->
+        </g>
+        <!-- group -->
+        <!-- end DynamicDraw object [79], type : FDOJ_GROUP -->
+        <!-- start DynamicDraw object [80], type : FDOJ_ARC -->
+        <ellipse
+           cx="3.2707231"
+           cy="2.815726"
+           rx="2.735225"
+           ry="2.4801321"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+           id="ellipse310" />
+        <!-- end DynamicDraw object [80], type : FDOJ_ARC -->
+        <!-- start DynamicDraw object [81], type : FDOJ_GROUP -->
+        <g
+           id="g328">
+          <!-- group -->
+          <!-- start DynamicDraw object [81], type : FDOJ_POLY -->
+          <polyline
+             points="1.623874,6.159657 1.093212,5.507211 0.781468,5.596824 1.271383,6.272585 "
+             style="fill:#ffffff;stroke:#ffffff;stroke-width:0.1"
+             id="polyline312" />
+          <!-- end DynamicDraw object [81], type : FDOJ_POLY -->
+          <!-- start DynamicDraw object [82], type : FDOJ_POLY -->
+          <path
+             d="m 1.093528,5.507285 c 0.120023,0.19713 0.426603,0.568825 0.53097,0.653139"
+             style="fill:none;stroke:#000000;stroke-width:0.1"
+             id="path314"
+             inkscape:connector-curvature="0" />
+          <!-- end DynamicDraw object [82], type : FDOJ_POLY -->
+          <!-- start DynamicDraw object [83], type : FDOJ_POLY -->
+          <path
+             d="M 1.623874,6.159657 C 1.556659,6.258989 1.371407,6.277989 1.259212,6.272051"
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+             id="path316"
+             inkscape:connector-curvature="0" />
+          <!-- end DynamicDraw object [83], type : FDOJ_POLY -->
+          <!-- start DynamicDraw object [84], type : FDOJ_POLY -->
+          <path
+             d="M 1.259212,6.272051 C 1.137884,6.238801 0.758248,5.729353 0.78173,5.595162"
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+             id="path318"
+             inkscape:connector-curvature="0" />
+          <!-- end DynamicDraw object [84], type : FDOJ_POLY -->
+          <!-- start DynamicDraw object [85], type : FDOJ_POLY -->
+          <path
+             d="M 1.093528,5.507285 C 0.96046,5.475222 0.807822,5.534599 0.78173,5.595162"
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+             id="path320"
+             inkscape:connector-curvature="0" />
+          <!-- end DynamicDraw object [85], type : FDOJ_POLY -->
+          <!-- start DynamicDraw object [86], type : FDOJ_ARC -->
+          <ellipse
+             cx="1.113464"
+             cy="5.9295511"
+             rx="0.099831998"
+             ry="0.25625801"
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+             transform="matrix(0.83246979,-0.55407044,0.62876451,0.78275534,-3.5417523,1.9051008)"
+             id="ellipse322" />
+          <!-- end DynamicDraw object [86], type : FDOJ_ARC -->
+          <!-- start DynamicDraw object [87], type : FDOJ_ARC -->
+          <ellipse
+             cx="1.042025"
+             cy="6.1852622"
+             rx="0.14504901"
+             ry="0.23416901"
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.25"
+             transform="matrix(0.95707352,-0.28984527,0.34383362,0.9407234,-2.0819706,0.66866734)"
+             id="ellipse324" />
+          <!-- end DynamicDraw object [87], type : FDOJ_ARC -->
+          <!-- start DynamicDraw object [88], type : FDOJ_ARC -->
+          <ellipse
+             cx="1.044646"
+             cy="5.9649739"
+             rx="0.083136"
+             ry="0.075676002"
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+             id="ellipse326" />
+          <!-- end DynamicDraw object [88], type : FDOJ_ARC -->
+        </g>
+        <!-- group -->
+        <!-- end DynamicDraw object [81], type : FDOJ_GROUP -->
+        <!-- start DynamicDraw object [82], type : FDOJ_GROUP -->
+        <g
+           id="g346">
+          <!-- group -->
+          <!-- start DynamicDraw object [82], type : FDOJ_POLY -->
+          <polyline
+             points="4.950014,6.159657 5.480676,5.507211 5.792420,5.596824 5.302505,6.272585 "
+             style="fill:#ffffff;stroke:#ffffff;stroke-width:0.1"
+             id="polyline330" />
+          <!-- end DynamicDraw object [82], type : FDOJ_POLY -->
+          <!-- start DynamicDraw object [83], type : FDOJ_POLY -->
+          <path
+             d="M 5.48036,5.507285 C 5.360337,5.704415 5.053758,6.07611 4.94939,6.160424"
+             style="fill:none;stroke:#000000;stroke-width:0.1"
+             id="path332"
+             inkscape:connector-curvature="0" />
+          <!-- end DynamicDraw object [83], type : FDOJ_POLY -->
+          <!-- start DynamicDraw object [84], type : FDOJ_POLY -->
+          <path
+             d="M 4.950014,6.159657 C 5.017229,6.258989 5.202481,6.277989 5.314676,6.272051"
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+             id="path334"
+             inkscape:connector-curvature="0" />
+          <!-- end DynamicDraw object [84], type : FDOJ_POLY -->
+          <!-- start DynamicDraw object [85], type : FDOJ_POLY -->
+          <path
+             d="M 5.314676,6.272051 C 5.436004,6.238801 5.815641,5.729353 5.792158,5.595162"
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+             id="path336"
+             inkscape:connector-curvature="0" />
+          <!-- end DynamicDraw object [85], type : FDOJ_POLY -->
+          <!-- start DynamicDraw object [86], type : FDOJ_POLY -->
+          <path
+             d="M 5.48036,5.507285 C 5.613429,5.475222 5.766066,5.534599 5.792158,5.595162"
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+             id="path338"
+             inkscape:connector-curvature="0" />
+          <!-- end DynamicDraw object [86], type : FDOJ_POLY -->
+          <!-- start DynamicDraw object [87], type : FDOJ_ARC -->
+          <ellipse
+             cx="5.4604239"
+             cy="5.9295511"
+             rx="0.099831998"
+             ry="0.25625801"
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+             transform="matrix(-0.83246979,-0.55407044,0.62876451,-0.78275534,6.2777708,13.596398)"
+             id="ellipse340" />
+          <!-- end DynamicDraw object [87], type : FDOJ_ARC -->
+          <!-- start DynamicDraw object [88], type : FDOJ_ARC -->
+          <ellipse
+             cx="5.5318632"
+             cy="6.1852622"
+             rx="0.14504901"
+             ry="0.23416901"
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.25"
+             transform="matrix(-0.95707352,-0.28984527,0.34383362,-0.9407234,8.6995616,13.607267)"
+             id="ellipse342" />
+          <!-- end DynamicDraw object [88], type : FDOJ_ARC -->
+          <!-- start DynamicDraw object [89], type : FDOJ_ARC -->
+          <ellipse
+             cx="5.529242"
+             cy="5.9649739"
+             rx="0.083136"
+             ry="0.075676002"
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+             transform="rotate(180,5.529242,5.964974)"
+             id="ellipse344" />
+          <!-- end DynamicDraw object [89], type : FDOJ_ARC -->
+        </g>
+        <!-- group -->
+        <!-- end DynamicDraw object [82], type : FDOJ_GROUP -->
+      </g>
+      <!-- group -->
+      <!-- end DynamicDraw object [5], type : FDOJ_GROUP -->
+    </g>
+    <!-- group -->
+    <!-- end DynamicDraw object [1], type : FDOJ_GROUP -->
+  </g>
+  <!-- stroke-linecap, etc -->
+</svg>

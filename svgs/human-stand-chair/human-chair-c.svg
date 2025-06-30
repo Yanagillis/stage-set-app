@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="4.9729972mm"
+   height="4.9729972mm"
+   viewBox="0 0 4.9729973 4.9729973"
+   version="1.1"
+   id="svg7"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <!-- Master Definitions -->
+  <style
+     id="style1">
+text { white-space: pre; }
+</style>
+  <defs
+     id="defs1" />
+  <!-- グループ部品 ID=3372 -->
+  <g
+     id="Group-3372"
+     style="fill:#ffffff;stroke:#000000;stroke-width:0.125;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+     transform="translate(-0.302083,-0.302083)">
+    <!-- 円弧部品 ID=3369 -->
+    <g
+       id="Group-3369"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.125;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1">
+      <defs
+         id="defs2">
+        <symbol
+           id="ObjectBody-0">
+          <path
+             d="m 5.21258,2.78858 c 0,1.33874 -1.08526,2.424 -2.424,2.424 -1.33873,0 -2.423997,-1.08526 -2.423997,-2.424 0,-1.33873 1.085267,-2.423997 2.423997,-2.423997 1.33874,0 2.424,1.085267 2.424,2.423997"
+             id="path1" />
+        </symbol>
+      </defs>
+      <use
+         href="#ObjectBody-0"
+         fill="#ffffffff"
+         stroke="transparent"
+         shape-rendering="crispEdges"
+         id="use2"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.125;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1" />
+      <use
+         href="#ObjectBody-0"
+         fill="none"
+         stroke="#000000ff"
+         stroke-width="0.125"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         shape-rendering="crispEdges"
+         id="use3"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.125;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1" />
+    </g>
+    <!-- End of 円弧部品 ID=3369 -->
+    <!-- 直線部品 ID=3370 -->
+    <g
+       id="Group-3370"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.125;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1">
+      <defs
+         id="defs3">
+        <symbol
+           id="ObjectBody-1">
+          <path
+             d="m 1.07456,1.07456 c 0,0 3.42805,3.42805 3.42805,3.42805"
+             id="path3" />
+        </symbol>
+      </defs>
+      <use
+         href="#ObjectBody-1"
+         fill="#ffffffff"
+         stroke="transparent"
+         shape-rendering="crispEdges"
+         id="use4"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.125;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1" />
+      <use
+         href="#ObjectBody-1"
+         fill="none"
+         stroke="#000000ff"
+         stroke-width="0.125"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         shape-rendering="crispEdges"
+         id="use5"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.125;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1" />
+    </g>
+    <!-- End of 直線部品 ID=3370 -->
+    <!-- 直線部品 ID=3371 -->
+    <g
+       id="Group-3371"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.125;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1">
+      <defs
+         id="defs5">
+        <symbol
+           id="ObjectBody-2">
+          <path
+             d="m 4.50261,1.07456 c 0,0 -3.42805,3.42805 -3.42805,3.42805"
+             id="path5" />
+        </symbol>
+      </defs>
+      <use
+         href="#ObjectBody-2"
+         fill="#ffffffff"
+         stroke="transparent"
+         shape-rendering="crispEdges"
+         id="use6"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.125;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1" />
+      <use
+         href="#ObjectBody-2"
+         fill="none"
+         stroke="#000000ff"
+         stroke-width="0.125"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         shape-rendering="crispEdges"
+         id="use7"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.125;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1" />
+    </g>
+    <!-- End of 直線部品 ID=3371 -->
+  </g>
+  <!-- End of グループ部品 ID=3372 -->
+</svg>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- This file was created by the DynamicDraw's "SVG Export" plug-in version 1.1.2.-->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="4.6700001mm"
+   height="4.6700001mm"
+   viewBox="0 0 4.67 4.67"
+   version="1.1"
+   id="svg34"
+   sodipodi:docname="エフェクトG.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata40">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs38" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="780"
+     inkscape:window-height="480"
+     id="namedview36"
+     showgrid="false"
+     inkscape:zoom="12.248267"
+     inkscape:cx="8.8251817"
+     inkscape:cy="8.8252129"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg34" />
+  <g
+     style="stroke-linecap:round;stroke-linejoin:round"
+     id="g32"
+     transform="translate(-0.21400404,-0.21400404)">
+    <!-- start DynamicDraw object [1], type : FDOJ_GROUP -->
+    <g
+       id="g30">
+      <!-- group -->
+      <!-- start DynamicDraw object [1], type : FDOJ_ARC -->
+      <circle
+         cx="2.5490041"
+         cy="2.5490041"
+         r="2.2725"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+         id="circle2" />
+      <!-- end DynamicDraw object [1], type : FDOJ_ARC -->
+      <!-- start DynamicDraw object [2], type : FDOJ_GROUP -->
+      <g
+         id="g28">
+        <!-- group -->
+        <!-- start DynamicDraw object [2], type : FDOJ_GROUP -->
+        <g
+           id="g8">
+          <!-- group -->
+          <!-- start DynamicDraw object [2], type : FDOJ_ARC -->
+          <circle
+             cx="2.5490041"
+             cy="1.034004"
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+             transform="rotate(90,2.549004,1.034004)"
+             id="ellipse4"
+             r="0.45449999" />
+          <!-- end DynamicDraw object [2], type : FDOJ_ARC -->
+          <!-- start DynamicDraw object [3], type : FDOJ_ARC -->
+          <circle
+             cx="2.5490041"
+             cy="4.0640039"
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+             transform="rotate(90,2.549004,4.064004)"
+             id="ellipse6"
+             r="0.45449999" />
+          <!-- end DynamicDraw object [3], type : FDOJ_ARC -->
+        </g>
+        <!-- group -->
+        <!-- end DynamicDraw object [2], type : FDOJ_GROUP -->
+        <!-- start DynamicDraw object [3], type : FDOJ_GROUP -->
+        <g
+           id="g14">
+          <!-- group -->
+          <!-- start DynamicDraw object [3], type : FDOJ_ARC -->
+          <circle
+             cx="4.0640039"
+             cy="2.5490041"
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+             transform="rotate(180,4.064004,2.549004)"
+             id="ellipse10"
+             r="0.45449999" />
+          <!-- end DynamicDraw object [3], type : FDOJ_ARC -->
+          <!-- start DynamicDraw object [4], type : FDOJ_ARC -->
+          <circle
+             cx="1.034004"
+             cy="2.5490041"
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+             transform="rotate(180,1.034004,2.549004)"
+             id="ellipse12"
+             r="0.45449999" />
+          <!-- end DynamicDraw object [4], type : FDOJ_ARC -->
+        </g>
+        <!-- group -->
+        <!-- end DynamicDraw object [3], type : FDOJ_GROUP -->
+        <!-- start DynamicDraw object [4], type : FDOJ_GROUP -->
+        <g
+           id="g20">
+          <!-- group -->
+          <!-- start DynamicDraw object [4], type : FDOJ_ARC -->
+          <circle
+             cx="3.620271"
+             cy="1.4777369"
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+             transform="rotate(135,3.620271,1.477737)"
+             id="ellipse16"
+             r="0.45449999" />
+          <!-- end DynamicDraw object [4], type : FDOJ_ARC -->
+          <!-- start DynamicDraw object [5], type : FDOJ_ARC -->
+          <circle
+             cx="1.4777369"
+             cy="3.620271"
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+             transform="rotate(135,1.477737,3.620271)"
+             id="ellipse18"
+             r="0.45449999" />
+          <!-- end DynamicDraw object [5], type : FDOJ_ARC -->
+        </g>
+        <!-- group -->
+        <!-- end DynamicDraw object [4], type : FDOJ_GROUP -->
+        <!-- start DynamicDraw object [5], type : FDOJ_GROUP -->
+        <g
+           id="g26">
+          <!-- group -->
+          <!-- start DynamicDraw object [5], type : FDOJ_ARC -->
+          <circle
+             cx="3.620271"
+             cy="3.620271"
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+             transform="rotate(-135,3.620271,3.620271)"
+             id="ellipse22"
+             r="0.45449999" />
+          <!-- end DynamicDraw object [5], type : FDOJ_ARC -->
+          <!-- start DynamicDraw object [6], type : FDOJ_ARC -->
+          <circle
+             cx="1.4777369"
+             cy="1.4777369"
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+             transform="rotate(-135,1.477737,1.477737)"
+             id="ellipse24"
+             r="0.45449999" />
+          <!-- end DynamicDraw object [6], type : FDOJ_ARC -->
+        </g>
+        <!-- group -->
+        <!-- end DynamicDraw object [5], type : FDOJ_GROUP -->
+      </g>
+      <!-- group -->
+      <!-- end DynamicDraw object [2], type : FDOJ_GROUP -->
+    </g>
+    <!-- group -->
+    <!-- end DynamicDraw object [1], type : FDOJ_GROUP -->
+  </g>
+  <!-- stroke-linecap, etc -->
+</svg>

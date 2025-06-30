@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- This file was created by the DynamicDraw's "SVG Export" plug-in version 1.1.2.-->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="3.155mm"
+   height="4.165mm"
+   viewBox="0 0 3.155 4.165"
+   version="1.1"
+   id="svg20"
+   sodipodi:docname="アッパーライトA.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata26">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs24" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="780"
+     inkscape:window-height="480"
+     id="namedview22"
+     showgrid="false"
+     inkscape:zoom="13.25444"
+     inkscape:cx="5.9618494"
+     inkscape:cy="7.8712216"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg20" />
+  <g
+     style="stroke-linecap:round;stroke-linejoin:round"
+     id="g18"
+     transform="translate(-0.273094,-0.273094)">
+    <!-- start DynamicDraw object [1], type : FDOJ_GROUP -->
+    <g
+       id="g16">
+      <!-- group -->
+      <!-- start DynamicDraw object [1], type : FDOJ_RECT -->
+      <rect
+         x="0.335594"
+         y="0.335594"
+         width="3.03"
+         height="4.04"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+         id="rect2" />
+      <g
+         transform="rotate(180,1.850594,2.355594)"
+         id="g4">
+        <!-- rotation -->
+      </g>
+      <!-- rotation -->
+      <!-- end DynamicDraw object [1], type : FDOJ_RECT -->
+      <!-- start DynamicDraw object [2], type : FDOJ_RECT -->
+      <rect
+         x="0.41134399"
+         y="0.52080297"
+         width="2.8785"
+         height="3.611562"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+         id="rect6" />
+      <g
+         transform="rotate(180,1.850594,2.326584)"
+         id="g8">
+        <!-- rotation -->
+      </g>
+      <!-- rotation -->
+      <!-- end DynamicDraw object [2], type : FDOJ_RECT -->
+      <!-- start DynamicDraw object [3], type : FDOJ_LINE -->
+      <line
+         x1="0.41134399"
+         y1="0.71434402"
+         x2="3.289844"
+         y2="0.71434402"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+         id="line10" />
+      <!-- end DynamicDraw object [3], type : FDOJ_LINE -->
+      <!-- start DynamicDraw object [4], type : FDOJ_LINE -->
+      <line
+         x1="0.41134399"
+         y1="1.320344"
+         x2="3.289844"
+         y2="1.320344"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+         id="line12" />
+      <!-- end DynamicDraw object [4], type : FDOJ_LINE -->
+      <!-- start DynamicDraw object [5], type : FDOJ_LINE -->
+      <line
+         x1="0.41134399"
+         y1="2.0778439"
+         x2="3.289844"
+         y2="2.0778439"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+         id="line14" />
+      <!-- end DynamicDraw object [5], type : FDOJ_LINE -->
+    </g>
+    <!-- group -->
+    <!-- end DynamicDraw object [1], type : FDOJ_GROUP -->
+  </g>
+  <!-- stroke-linecap, etc -->
+</svg>

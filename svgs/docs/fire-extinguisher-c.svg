@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- This file was created by the DynamicDraw's "SVG Export" plug-in version 1.1.2.-->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="12.27mm"
+   height="12.27mm"
+   viewBox="0 0 12.27 12.27"
+   version="1.1"
+   id="svg24"
+   sodipodi:docname="消防_消火器C.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata30">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs28" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="780"
+     inkscape:window-height="480"
+     id="namedview26"
+     showgrid="false"
+     inkscape:zoom="4.9380518"
+     inkscape:cx="23.18656"
+     inkscape:cy="23.188247"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg24" />
+  <g
+     style="stroke-linecap:round;stroke-linejoin:round"
+     id="g22"
+     transform="translate(-0.187723,-0.18772311)">
+    <!-- start DynamicDraw object [1], type : FDOJ_GROUP -->
+    <g
+       id="g20">
+      <!-- group -->
+      <!-- start DynamicDraw object [1], type : FDOJ_RECT -->
+      <rect
+         x="0.262723"
+         y="0.262723"
+         width="12.12"
+         height="12.12"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+         transform="rotate(-90,6.322723,6.322723)"
+         id="rect2" />
+      <!-- end DynamicDraw object [1], type : FDOJ_RECT -->
+      <!-- start DynamicDraw object [2], type : FDOJ_RECT -->
+      <rect
+         x="0.567092"
+         y="0.57926702"
+         width="11.517348"
+         height="11.517348"
+         style="fill:#b30000;stroke:none;stroke-width:0"
+         transform="rotate(-90,6.325766,6.337941)"
+         id="rect4" />
+      <!-- end DynamicDraw object [2], type : FDOJ_RECT -->
+      <!-- start DynamicDraw object [3], type : FDOJ_POLY -->
+      <path
+         d="m 3.458604,1.455852 c 0,0 0.977027,0 0.977027,0 0,0 0,0.3622 0,0.3622 0.310457,0 0.526559,0.045655 0.791361,0.124791 0,0 0,0.546344 0,0.546344 0,0 -0.231321,0.051743 -0.681788,0.132401 0,0 0,0.657438 0,0.657438 0.5433,0.15675 1.013551,0.431515 1.013551,1.147474 0,0 0,6.763094 0,6.763094 0,0 -3.317629,0 -3.317629,0 0,0 0,-6.763094 0,-6.763094 0,-0.596565 0.426117,-1.126168 1.031813,-1.147474 0,0 0,-0.7244 0,-0.7244 0,0 -0.297451,0 -0.307414,0 0,0 -0.372853,0.380462 -0.792883,0.792883 -0.167341,0.16431 -0.141532,0.319588 -0.171968,0.774621 0,0 -0.389594,0 -0.389594,0 C 1.615646,3.729493 1.614124,3.662532 1.626299,3.291201 1.636723,2.973277 1.78636,2.758448 1.951974,2.612457 2.273084,2.329393 2.932045,1.748046 2.932045,1.748047 c 0,0 0.33785,0.00913 0.526559,0.012174 0,0 0,-0.304369 0,-0.304369"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:0"
+         id="path6"
+         inkscape:connector-curvature="0" />
+      <!-- end DynamicDraw object [3], type : FDOJ_POLY -->
+      <!-- start DynamicDraw object [4], type : FDOJ_RECT -->
+      <rect
+         x="3.1268411"
+         y="4.6486902"
+         width="1.521848"
+         height="2.434957"
+         style="fill:#b30000;stroke:#ffffff;stroke-width:0"
+         transform="rotate(90,3.887765,5.866168)"
+         id="rect8" />
+      <!-- end DynamicDraw object [4], type : FDOJ_RECT -->
+      <!-- start DynamicDraw object [5], type : FDOJ_POLY -->
+      <path
+         d="m 11.073933,11.213943 c 0,0 0,-1.266178 0,-1.266178 C 9.28424,10.40432 8.212858,9.357288 8.212858,9.357288 c 0,0 0.109573,2.087976 2.861075,1.85209"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:0"
+         id="path10"
+         inkscape:connector-curvature="0" />
+      <!-- end DynamicDraw object [5], type : FDOJ_POLY -->
+      <!-- start DynamicDraw object [6], type : FDOJ_POLY -->
+      <path
+         d="m 11.073933,8.705937 c 0,0 0,-1.387925 0,-1.387925 C 9.357288,7.165827 8.188509,5.400483 8.188509,5.400483 c 0,0 -0.243496,2.574967 2.885424,3.300889"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:0"
+         id="path12"
+         inkscape:connector-curvature="0" />
+      <!-- end DynamicDraw object [6], type : FDOJ_POLY -->
+      <!-- start DynamicDraw object [7], type : FDOJ_POLY -->
+      <path
+         d="m 11.073933,6.009222 c 0,0 0,-1.30879 0,-1.30879 C 10.252135,4.487374 9.807755,2.849865 9.807755,2.849865 c 0,0 -0.870497,1.795781 1.266178,3.154791"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:0"
+         id="path14"
+         inkscape:connector-curvature="0" />
+      <!-- end DynamicDraw object [7], type : FDOJ_POLY -->
+      <!-- start DynamicDraw object [8], type : FDOJ_POLY -->
+      <path
+         d="m 11.073933,6.697097 c 0,0 -0.620148,-0.447859 -0.799704,-0.652414 C 10.023145,5.758641 9.728077,5.207821 9.619046,4.956103 9.475869,4.625551 9.274654,4.277013 9.195232,4.107349 8.778986,3.218152 7.83544,3.434255 7.83544,3.434255 c 0,0 0.257899,0.089172 0.487531,0.622414 0.133252,0.309432 0.199389,0.68093 0.309917,1.009007 0.210114,0.623671 0.653141,1.178288 1.165978,1.467735 0.29215,0.164891 0.901103,0.282675 1.275067,0.163686"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:0"
+         id="path16"
+         inkscape:connector-curvature="0" />
+      <!-- end DynamicDraw object [8], type : FDOJ_POLY -->
+      <!-- start DynamicDraw object [9], type : FDOJ_POLY -->
+      <path
+         d="m 11.073933,9.294622 c 0,0 -0.316064,-0.122092 -0.647857,-0.198517 C 10.159302,9.034656 9.794504,8.773581 9.675462,8.655468 9.532301,8.513423 9.084877,7.862833 8.467894,7.698622 7.759573,7.5101 7.173436,7.958787 7.173436,7.958787 c 0,0 0.334552,0.047459 0.637641,0.230332 0.17807,0.107441 0.412434,0.302238 0.693004,0.649123 0.270792,0.334798 0.609712,0.783848 1.398784,0.839069 0.515624,0.036085 0.891048,-0.131314 1.171068,-0.382689"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:0"
+         id="path18"
+         inkscape:connector-curvature="0" />
+      <!-- end DynamicDraw object [9], type : FDOJ_POLY -->
+    </g>
+    <!-- group -->
+    <!-- end DynamicDraw object [1], type : FDOJ_GROUP -->
+  </g>
+  <!-- stroke-linecap, etc -->
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_1" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56.69 56.69">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #231815;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #231815;
+        font-family: KozGoPr6N-Regular-83pv-RKSJ-H, 'Kozuka Gothic Pr6N';
+        font-size: 6px;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="26.77" cy="27.03" r="13.39"/>
+  <text class="cls-2" transform="translate(18 29.31)"><tspan x="0" y="0">Splash</tspan></text>
+</svg>

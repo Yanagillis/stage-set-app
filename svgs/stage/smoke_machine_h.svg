@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="9.2150011mm"
+   height="4.6700006mm"
+   viewBox="0 0 9.2150008 4.6700003"
+   version="1.1"
+   id="svg176">
+  <metadata
+     id="metadata182">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs180" />
+  <g
+     style="stroke-linecap:round;stroke-linejoin:round"
+     id="g174"
+     transform="translate(-0.169792,-0.169792)">
+    <!-- start DynamicDraw object [1], type : FTObjectType::GROUP -->
+    <g
+       id="g172">
+      <!-- group -->
+      <!-- start DynamicDraw object [1], type : FTObjectType::RECT -->
+      <rect
+         x="0.232292"
+         y="0.232292"
+         width="9.0900002"
+         height="4.5450001"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+         id="rect2" />
+      <!-- end DynamicDraw object [1], type : FTObjectType::RECT -->
+      <!-- start DynamicDraw object [2], type : FTObjectType::RECT -->
+      <rect
+         x="0.45954201"
+         y="0.45954201"
+         width="8.6355"
+         height="4.0904999"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+         id="rect4" />
+      <!-- end DynamicDraw object [2], type : FTObjectType::RECT -->
+      <!-- start DynamicDraw object [3], type : FTObjectType::GROUP -->
+      <g
+         id="g50">
+        <!-- group -->
+        <!-- start DynamicDraw object [3], type : FTObjectType::ARC -->
+        <circle
+           cx="3.2622919"
+           cy="1.5200419"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+           id="ellipse6"
+           r="0.75749999" />
+        <!-- end DynamicDraw object [3], type : FTObjectType::ARC -->
+        <!-- start DynamicDraw object [4], type : FTObjectType::GROUP -->
+        <g
+           id="g48">
+          <!-- group -->
+          <!-- start DynamicDraw object [4], type : FTObjectType::ARC -->
+          <circle
+             cx="3.2622919"
+             cy="1.5200419"
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+             id="ellipse8"
+             r="0.22724999" />
+          <!-- end DynamicDraw object [4], type : FTObjectType::ARC -->
+          <!-- start DynamicDraw object [5], type : FTObjectType::GROUP -->
+          <g
+             id="g46">
+            <!-- group -->
+            <!-- start DynamicDraw object [5], type : FTObjectType::POLY -->
+            <path
+               d="m 3.072917,1.267542 c 0,0 0.12625,-0.063125 0.12625,-0.12625 0,0 0.12625,0 0.12625,0 0,0.063125 0.12625,0.12625 0.12625,0.12625"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+               id="path10" />
+            <!-- end DynamicDraw object [5], type : FTObjectType::POLY -->
+            <!-- start DynamicDraw object [6], type : FTObjectType::POLY -->
+            <path
+               d="m 3.451667,1.772542 c 0,0 -0.12625,0.063125 -0.12625,0.12625 0,0 -0.12625,0 -0.12625,0 0,-0.063125 -0.12625,-0.12625 -0.12625,-0.12625"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+               id="path12" />
+            <!-- end DynamicDraw object [6], type : FTObjectType::POLY -->
+            <!-- start DynamicDraw object [7], type : FTObjectType::GROUP -->
+            <g
+               id="g18">
+              <!-- group -->
+              <!-- start DynamicDraw object [7], type : FTObjectType::POLY -->
+              <path
+                 d="m 3.514792,1.330667 c 0,0 0.063125,0.12625 0.12625,0.12625 0,0 0,0.12625 0,0.12625 -0.063125,0 -0.12625,0.12625 -0.12625,0.12625"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+                 id="path14" />
+              <!-- end DynamicDraw object [7], type : FTObjectType::POLY -->
+              <!-- start DynamicDraw object [8], type : FTObjectType::POLY -->
+              <path
+                 d="m 3.009792,1.709417 c 0,0 -0.063125,-0.12625 -0.12625,-0.12625 0,0 0,-0.12625 0,-0.12625 0.063125,0 0.12625,-0.12625 0.12625,-0.12625"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+                 id="path16" />
+              <!-- end DynamicDraw object [8], type : FTObjectType::POLY -->
+            </g>
+            <!-- group -->
+            <!-- end DynamicDraw object [7], type : FTObjectType::GROUP -->
+            <!-- start DynamicDraw object [8], type : FTObjectType::GROUP -->
+            <g
+               id="g30">
+              <!-- group -->
+              <!-- start DynamicDraw object [8], type : FTObjectType::POLY -->
+              <path
+                 d="m 3.306928,1.207589 c 0,0 0.133908,0.044636 0.178544,0 0,0 0.089272,0.089272 0.089272,0.089272 -0.044636,0.044636 0,0.178545 0,0.178545"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+                 id="path20" />
+              <!-- end DynamicDraw object [8], type : FTObjectType::POLY -->
+              <!-- start DynamicDraw object [9], type : FTObjectType::POLY -->
+              <path
+                 d="m 3.217656,1.832494 c 0,0 -0.133909,-0.044636 -0.178545,0 0,0 -0.089272,-0.089272 -0.089272,-0.089272 0.044636,-0.044636 0,-0.178544 0,-0.178544"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+                 id="path22" />
+              <!-- end DynamicDraw object [9], type : FTObjectType::POLY -->
+              <!-- start DynamicDraw object [10], type : FTObjectType::GROUP -->
+              <g
+                 id="g28">
+                <!-- group -->
+                <!-- start DynamicDraw object [10], type : FTObjectType::POLY -->
+                <path
+                   d="m 3.574744,1.564678 c 0,0 -0.044636,0.133908 0,0.178544 0,0 -0.089272,0.089272 -0.089272,0.089272 -0.044636,-0.044636 -0.178544,0 -0.178544,0"
+                   style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+                   id="path24" />
+                <!-- end DynamicDraw object [10], type : FTObjectType::POLY -->
+                <!-- start DynamicDraw object [11], type : FTObjectType::POLY -->
+                <path
+                   d="m 2.949839,1.475406 c 0,0 0.044636,-0.133909 0,-0.178545 0,0 0.089272,-0.089272 0.089272,-0.089272 0.044636,0.044636 0.178545,0 0.178545,0"
+                   style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+                   id="path26" />
+                <!-- end DynamicDraw object [11], type : FTObjectType::POLY -->
+              </g>
+              <!-- group -->
+              <!-- end DynamicDraw object [10], type : FTObjectType::GROUP -->
+            </g>
+            <!-- group -->
+            <!-- end DynamicDraw object [8], type : FTObjectType::GROUP -->
+            <!-- start DynamicDraw object [9], type : FTObjectType::POLY -->
+            <path
+               d="m 3.306928,1.207589 c 0,0 0.133908,0.044636 0.178544,0 0,0 0.089272,0.089272 0.089272,0.089272 -0.044636,0.044636 0,0.178545 0,0.178545"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+               id="path32" />
+            <!-- end DynamicDraw object [9], type : FTObjectType::POLY -->
+            <!-- start DynamicDraw object [10], type : FTObjectType::POLY -->
+            <path
+               d="m 3.217656,1.832494 c 0,0 -0.133909,-0.044636 -0.178545,0 0,0 -0.089272,-0.089272 -0.089272,-0.089272 0.044636,-0.044636 0,-0.178544 0,-0.178544"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+               id="path34" />
+            <!-- end DynamicDraw object [10], type : FTObjectType::POLY -->
+            <!-- start DynamicDraw object [11], type : FTObjectType::GROUP -->
+            <g
+               id="g40">
+              <!-- group -->
+              <!-- start DynamicDraw object [11], type : FTObjectType::POLY -->
+              <path
+                 d="m 3.574744,1.564678 c 0,0 -0.044636,0.133908 0,0.178544 0,0 -0.089272,0.089272 -0.089272,0.089272 -0.044636,-0.044636 -0.178544,0 -0.178544,0"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+                 id="path36" />
+              <!-- end DynamicDraw object [11], type : FTObjectType::POLY -->
+              <!-- start DynamicDraw object [12], type : FTObjectType::POLY -->
+              <path
+                 d="m 2.949839,1.475406 c 0,0 0.044636,-0.133909 0,-0.178545 0,0 0.089272,-0.089272 0.089272,-0.089272 0.044636,0.044636 0.178545,0 0.178545,0"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+                 id="path38" />
+              <!-- end DynamicDraw object [12], type : FTObjectType::POLY -->
+            </g>
+            <!-- group -->
+            <!-- end DynamicDraw object [11], type : FTObjectType::GROUP -->
+            <!-- start DynamicDraw object [12], type : FTObjectType::ARC -->
+            <circle
+               cx="3.2622919"
+               cy="1.5200419"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+               transform="rotate(-108,3.262292,1.520042)"
+               id="ellipse42"
+               r="0.31562501" />
+            <!-- end DynamicDraw object [12], type : FTObjectType::ARC -->
+            <!-- start DynamicDraw object [13], type : FTObjectType::ARC -->
+            <circle
+               cx="3.2622919"
+               cy="1.5200419"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+               transform="rotate(-108,3.262292,1.520042)"
+               id="ellipse44"
+               r="0.063124999" />
+            <!-- end DynamicDraw object [13], type : FTObjectType::ARC -->
+          </g>
+          <!-- group -->
+          <!-- end DynamicDraw object [5], type : FTObjectType::GROUP -->
+        </g>
+        <!-- group -->
+        <!-- end DynamicDraw object [4], type : FTObjectType::GROUP -->
+      </g>
+      <!-- group -->
+      <!-- end DynamicDraw object [3], type : FTObjectType::GROUP -->
+      <!-- start DynamicDraw object [4], type : FTObjectType::ARC -->
+      <circle
+         cx="1.4442919"
+         cy="1.4442919"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+         id="ellipse52"
+         r="0.75749999" />
+      <!-- end DynamicDraw object [4], type : FTObjectType::ARC -->
+      <!-- start DynamicDraw object [5], type : FTObjectType::POLY -->
+      <path
+         d="m 3.338042,2.656292 c 0,0 0.205928,-0.044363 0.22725,0 0.045509,0.094687 -0.348509,0.284062 -0.303,0.37875 0.035536,0.073938 0.37875,0 0.37875,0"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+         id="path54" />
+      <!-- end DynamicDraw object [5], type : FTObjectType::POLY -->
+      <!-- start DynamicDraw object [6], type : FTObjectType::GROUP -->
+      <g
+         id="g116">
+        <!-- group -->
+        <!-- start DynamicDraw object [6], type : FTObjectType::RECT -->
+        <rect
+           x="2.799063"
+           y="2.1892569"
+           width="0.22724999"
+           height="0.98474997"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+           transform="rotate(90,2.912688,2.681632)"
+           id="rect56" />
+        <g
+           transform="rotate(-90,2.912688,2.681632)"
+           id="g58">
+          <!-- rotation -->
+        </g>
+        <!-- rotation -->
+        <!-- end DynamicDraw object [6], type : FTObjectType::RECT -->
+        <!-- start DynamicDraw object [7], type : FTObjectType::RECT -->
+        <rect
+           x="1.812737"
+           y="1.509737"
+           width="0.37875"
+           height="0.98474997"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+           transform="rotate(135,2.002112,2.002112)"
+           id="rect60" />
+        <g
+           transform="rotate(-45,2.002112,2.002112)"
+           id="g62">
+          <!-- rotation -->
+        </g>
+        <!-- rotation -->
+        <!-- end DynamicDraw object [7], type : FTObjectType::RECT -->
+        <!-- start DynamicDraw object [8], type : FTObjectType::POLY -->
+        <polyline
+           points="2.341346,3.573303 1.359352,2.591308 2.430618,2.591308 2.430618,3.662575 2.252074,3.484031 "
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+           id="polyline64" />
+        <!-- end DynamicDraw object [8], type : FTObjectType::POLY -->
+        <!-- start DynamicDraw object [9], type : FTObjectType::GROUP -->
+        <g
+           id="g70">
+          <!-- group -->
+          <!-- start DynamicDraw object [9], type : FTObjectType::ARC -->
+          <circle
+             cx="1.5200419"
+             cy="2.644872"
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+             transform="rotate(117,1.520042,2.644872)"
+             id="ellipse66"
+             r="0.37875" />
+          <!-- end DynamicDraw object [9], type : FTObjectType::ARC -->
+          <!-- start DynamicDraw object [10], type : FTObjectType::POLY -->
+          <polyline
+             points="1.745021,2.759504 1.745021,2.759504 1.352379,2.417750 1.237746,2.642729 1.745021,2.759504 "
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+             id="polyline68" />
+          <!-- end DynamicDraw object [10], type : FTObjectType::POLY -->
+        </g>
+        <!-- group -->
+        <!-- end DynamicDraw object [9], type : FTObjectType::GROUP -->
+        <!-- start DynamicDraw object [10], type : FTObjectType::GROUP -->
+        <g
+           id="g76">
+          <!-- group -->
+          <!-- start DynamicDraw object [10], type : FTObjectType::ARC -->
+          <circle
+             cx="2.3770549"
+             cy="3.5018849"
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+             transform="rotate(117,2.377055,3.501885)"
+             id="ellipse72"
+             r="0.37875" />
+          <!-- end DynamicDraw object [10], type : FTObjectType::ARC -->
+          <!-- start DynamicDraw object [11], type : FTObjectType::POLY -->
+          <polyline
+             points="2.602034,3.616518 2.602034,3.616518 2.209392,3.274763 2.094760,3.499742 2.602034,3.616518 "
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+             id="polyline74" />
+          <!-- end DynamicDraw object [11], type : FTObjectType::POLY -->
+        </g>
+        <!-- group -->
+        <!-- end DynamicDraw object [10], type : FTObjectType::GROUP -->
+        <!-- start DynamicDraw object [11], type : FTObjectType::GROUP -->
+        <g
+           id="g114">
+          <!-- group -->
+          <!-- start DynamicDraw object [11], type : FTObjectType::POLY -->
+          <path
+             d="m 2.368128,3.028742 c 0,0 -0.187472,-0.06249 -0.249962,0 0,0 -0.124982,-0.124981 -0.124982,-0.124981 0.062491,-0.06249 0,-0.249962 0,-0.249962"
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+             id="path78" />
+          <!-- end DynamicDraw object [11], type : FTObjectType::POLY -->
+          <!-- start DynamicDraw object [12], type : FTObjectType::POLY -->
+          <path
+             d="m 2.493109,2.153875 c 0,0 0.187472,0.06249 0.249962,0 0,0 0.124981,0.124981 0.124981,0.124981 -0.06249,0.06249 0,0.249962 0,0.249962"
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+             id="path80" />
+          <!-- end DynamicDraw object [12], type : FTObjectType::POLY -->
+          <!-- start DynamicDraw object [13], type : FTObjectType::GROUP -->
+          <g
+             id="g86">
+            <!-- group -->
+            <!-- start DynamicDraw object [13], type : FTObjectType::POLY -->
+            <path
+               d="m 1.993184,2.528818 c 0,0 0.062491,-0.187472 0,-0.249962 0,0 0.124982,-0.124981 0.124982,-0.124981 0.06249,0.06249 0.249962,0 0.249962,0"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+               id="path82" />
+            <!-- end DynamicDraw object [13], type : FTObjectType::POLY -->
+            <!-- start DynamicDraw object [14], type : FTObjectType::POLY -->
+            <path
+               d="m 2.868052,2.653799 c 0,0 -0.06249,0.187472 0,0.249962 0,0 -0.124981,0.124981 -0.124981,0.124981 -0.06249,-0.06249 -0.249962,0 -0.249962,0"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+               id="path84" />
+            <!-- end DynamicDraw object [14], type : FTObjectType::POLY -->
+          </g>
+          <!-- group -->
+          <!-- end DynamicDraw object [13], type : FTObjectType::GROUP -->
+          <!-- start DynamicDraw object [14], type : FTObjectType::GROUP -->
+          <g
+             id="g98">
+            <!-- group -->
+            <!-- start DynamicDraw object [14], type : FTObjectType::POLY -->
+            <path
+               d="m 2.077118,2.856433 c 0,0 -0.088375,-0.17675 -0.17675,-0.17675 0,0 0,-0.17675 0,-0.17675 0.088375,0 0.17675,-0.17675 0.17675,-0.17675"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+               id="path88" />
+            <!-- end DynamicDraw object [14], type : FTObjectType::POLY -->
+            <!-- start DynamicDraw object [15], type : FTObjectType::POLY -->
+            <path
+               d="m 2.784118,2.326183 c 0,0 0.088375,0.17675 0.17675,0.17675 0,0 0,0.17675 0,0.17675 -0.088375,0 -0.17675,0.17675 -0.17675,0.17675"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+               id="path90" />
+            <!-- end DynamicDraw object [15], type : FTObjectType::POLY -->
+            <!-- start DynamicDraw object [16], type : FTObjectType::GROUP -->
+            <g
+               id="g96">
+              <!-- group -->
+              <!-- start DynamicDraw object [16], type : FTObjectType::POLY -->
+              <path
+                 d="m 2.165493,2.237808 c 0,0 0.17675,-0.088375 0.17675,-0.17675 0,0 0.17675,0 0.17675,0 0,0.088375 0.17675,0.17675 0.17675,0.17675"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+                 id="path92" />
+              <!-- end DynamicDraw object [16], type : FTObjectType::POLY -->
+              <!-- start DynamicDraw object [17], type : FTObjectType::POLY -->
+              <path
+                 d="m 2.695743,2.944808 c 0,0 -0.17675,0.088375 -0.17675,0.17675 0,0 -0.17675,0 -0.17675,0 0,-0.088375 -0.17675,-0.17675 -0.17675,-0.17675"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+                 id="path94" />
+              <!-- end DynamicDraw object [17], type : FTObjectType::POLY -->
+            </g>
+            <!-- group -->
+            <!-- end DynamicDraw object [16], type : FTObjectType::GROUP -->
+          </g>
+          <!-- group -->
+          <!-- end DynamicDraw object [14], type : FTObjectType::GROUP -->
+          <!-- start DynamicDraw object [15], type : FTObjectType::POLY -->
+          <path
+             d="m 2.077118,2.856433 c 0,0 -0.088375,-0.17675 -0.17675,-0.17675 0,0 0,-0.17675 0,-0.17675 0.088375,0 0.17675,-0.17675 0.17675,-0.17675"
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+             id="path100" />
+          <!-- end DynamicDraw object [15], type : FTObjectType::POLY -->
+          <!-- start DynamicDraw object [16], type : FTObjectType::POLY -->
+          <path
+             d="m 2.784118,2.326183 c 0,0 0.088375,0.17675 0.17675,0.17675 0,0 0,0.17675 0,0.17675 -0.088375,0 -0.17675,0.17675 -0.17675,0.17675"
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+             id="path102" />
+          <!-- end DynamicDraw object [16], type : FTObjectType::POLY -->
+          <!-- start DynamicDraw object [17], type : FTObjectType::GROUP -->
+          <g
+             id="g108">
+            <!-- group -->
+            <!-- start DynamicDraw object [17], type : FTObjectType::POLY -->
+            <path
+               d="m 2.165493,2.237808 c 0,0 0.17675,-0.088375 0.17675,-0.17675 0,0 0.17675,0 0.17675,0 0,0.088375 0.17675,0.17675 0.17675,0.17675"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+               id="path104" />
+            <!-- end DynamicDraw object [17], type : FTObjectType::POLY -->
+            <!-- start DynamicDraw object [18], type : FTObjectType::POLY -->
+            <path
+               d="m 2.695743,2.944808 c 0,0 -0.17675,0.088375 -0.17675,0.17675 0,0 -0.17675,0 -0.17675,0 0,-0.088375 -0.17675,-0.17675 -0.17675,-0.17675"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+               id="path106" />
+            <!-- end DynamicDraw object [18], type : FTObjectType::POLY -->
+          </g>
+          <!-- group -->
+          <!-- end DynamicDraw object [17], type : FTObjectType::GROUP -->
+          <!-- start DynamicDraw object [18], type : FTObjectType::ARC -->
+          <circle
+             cx="2.430618"
+             cy="2.5913081"
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+             transform="rotate(117,2.430618,2.591308)"
+             id="ellipse110"
+             r="0.44187501" />
+          <!-- end DynamicDraw object [18], type : FTObjectType::ARC -->
+          <!-- start DynamicDraw object [19], type : FTObjectType::ARC -->
+          <circle
+             cx="2.430618"
+             cy="2.5913081"
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+             transform="rotate(117,2.430618,2.591308)"
+             id="ellipse112"
+             r="0.088375002" />
+          <!-- end DynamicDraw object [19], type : FTObjectType::ARC -->
+        </g>
+        <!-- group -->
+        <!-- end DynamicDraw object [11], type : FTObjectType::GROUP -->
+      </g>
+      <!-- group -->
+      <!-- end DynamicDraw object [6], type : FTObjectType::GROUP -->
+      <!-- start DynamicDraw object [7], type : FTObjectType::GROUP -->
+      <g
+         id="g158">
+        <!-- group -->
+        <!-- start DynamicDraw object [7], type : FTObjectType::ARC -->
+        <circle
+           cx="1.4442919"
+           cy="1.4442919"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+           id="ellipse118"
+           r="0.22724999" />
+        <!-- end DynamicDraw object [7], type : FTObjectType::ARC -->
+        <!-- start DynamicDraw object [8], type : FTObjectType::GROUP -->
+        <g
+           id="g156">
+          <!-- group -->
+          <!-- start DynamicDraw object [8], type : FTObjectType::POLY -->
+          <path
+             d="m 1.254917,1.191792 c 0,0 0.12625,-0.063125 0.12625,-0.12625 0,0 0.12625,0 0.12625,0 0,0.063125 0.12625,0.12625 0.12625,0.12625"
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+             id="path120" />
+          <!-- end DynamicDraw object [8], type : FTObjectType::POLY -->
+          <!-- start DynamicDraw object [9], type : FTObjectType::POLY -->
+          <path
+             d="m 1.633667,1.696792 c 0,0 -0.12625,0.063125 -0.12625,0.12625 0,0 -0.12625,0 -0.12625,0 0,-0.063125 -0.12625,-0.12625 -0.12625,-0.12625"
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+             id="path122" />
+          <!-- end DynamicDraw object [9], type : FTObjectType::POLY -->
+          <!-- start DynamicDraw object [10], type : FTObjectType::GROUP -->
+          <g
+             id="g128">
+            <!-- group -->
+            <!-- start DynamicDraw object [10], type : FTObjectType::POLY -->
+            <path
+               d="m 1.696792,1.254917 c 0,0 0.063125,0.12625 0.12625,0.12625 0,0 0,0.12625 0,0.12625 -0.063125,0 -0.12625,0.12625 -0.12625,0.12625"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+               id="path124" />
+            <!-- end DynamicDraw object [10], type : FTObjectType::POLY -->
+            <!-- start DynamicDraw object [11], type : FTObjectType::POLY -->
+            <path
+               d="m 1.191792,1.633667 c 0,0 -0.063125,-0.12625 -0.12625,-0.12625 0,0 0,-0.12625 0,-0.12625 0.063125,0 0.12625,-0.12625 0.12625,-0.12625"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+               id="path126" />
+            <!-- end DynamicDraw object [11], type : FTObjectType::POLY -->
+          </g>
+          <!-- group -->
+          <!-- end DynamicDraw object [10], type : FTObjectType::GROUP -->
+          <!-- start DynamicDraw object [11], type : FTObjectType::GROUP -->
+          <g
+             id="g140">
+            <!-- group -->
+            <!-- start DynamicDraw object [11], type : FTObjectType::POLY -->
+            <path
+               d="m 1.488928,1.131839 c 0,0 0.133908,0.044636 0.178544,0 0,0 0.089272,0.089272 0.089272,0.089272 -0.044636,0.044636 0,0.178545 0,0.178545"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+               id="path130" />
+            <!-- end DynamicDraw object [11], type : FTObjectType::POLY -->
+            <!-- start DynamicDraw object [12], type : FTObjectType::POLY -->
+            <path
+               d="m 1.399656,1.756744 c 0,0 -0.133909,-0.044636 -0.178545,0 0,0 -0.089272,-0.089272 -0.089272,-0.089272 0.044636,-0.044636 0,-0.178544 0,-0.178544"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+               id="path132" />
+            <!-- end DynamicDraw object [12], type : FTObjectType::POLY -->
+            <!-- start DynamicDraw object [13], type : FTObjectType::GROUP -->
+            <g
+               id="g138">
+              <!-- group -->
+              <!-- start DynamicDraw object [13], type : FTObjectType::POLY -->
+              <path
+                 d="m 1.756744,1.488928 c 0,0 -0.044636,0.133908 0,0.178544 0,0 -0.089272,0.089272 -0.089272,0.089272 -0.044636,-0.044636 -0.178544,0 -0.178544,0"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+                 id="path134" />
+              <!-- end DynamicDraw object [13], type : FTObjectType::POLY -->
+              <!-- start DynamicDraw object [14], type : FTObjectType::POLY -->
+              <path
+                 d="m 1.131839,1.399656 c 0,0 0.044636,-0.133909 0,-0.178545 0,0 0.089272,-0.089272 0.089272,-0.089272 0.044636,0.044636 0.178545,0 0.178545,0"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+                 id="path136" />
+              <!-- end DynamicDraw object [14], type : FTObjectType::POLY -->
+            </g>
+            <!-- group -->
+            <!-- end DynamicDraw object [13], type : FTObjectType::GROUP -->
+          </g>
+          <!-- group -->
+          <!-- end DynamicDraw object [11], type : FTObjectType::GROUP -->
+          <!-- start DynamicDraw object [12], type : FTObjectType::POLY -->
+          <path
+             d="m 1.488928,1.131839 c 0,0 0.133908,0.044636 0.178544,0 0,0 0.089272,0.089272 0.089272,0.089272 -0.044636,0.044636 0,0.178545 0,0.178545"
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+             id="path142" />
+          <!-- end DynamicDraw object [12], type : FTObjectType::POLY -->
+          <!-- start DynamicDraw object [13], type : FTObjectType::POLY -->
+          <path
+             d="m 1.399656,1.756744 c 0,0 -0.133909,-0.044636 -0.178545,0 0,0 -0.089272,-0.089272 -0.089272,-0.089272 0.044636,-0.044636 0,-0.178544 0,-0.178544"
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+             id="path144" />
+          <!-- end DynamicDraw object [13], type : FTObjectType::POLY -->
+          <!-- start DynamicDraw object [14], type : FTObjectType::GROUP -->
+          <g
+             id="g150">
+            <!-- group -->
+            <!-- start DynamicDraw object [14], type : FTObjectType::POLY -->
+            <path
+               d="m 1.756744,1.488928 c 0,0 -0.044636,0.133908 0,0.178544 0,0 -0.089272,0.089272 -0.089272,0.089272 -0.044636,-0.044636 -0.178544,0 -0.178544,0"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+               id="path146" />
+            <!-- end DynamicDraw object [14], type : FTObjectType::POLY -->
+            <!-- start DynamicDraw object [15], type : FTObjectType::POLY -->
+            <path
+               d="m 1.131839,1.399656 c 0,0 0.044636,-0.133909 0,-0.178545 0,0 0.089272,-0.089272 0.089272,-0.089272 0.044636,0.044636 0.178545,0 0.178545,0"
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+               id="path148" />
+            <!-- end DynamicDraw object [15], type : FTObjectType::POLY -->
+          </g>
+          <!-- group -->
+          <!-- end DynamicDraw object [14], type : FTObjectType::GROUP -->
+          <!-- start DynamicDraw object [15], type : FTObjectType::ARC -->
+          <circle
+             cx="1.4442919"
+             cy="1.4442919"
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+             transform="rotate(-108,1.444292,1.444292)"
+             id="ellipse152"
+             r="0.31562501" />
+          <!-- end DynamicDraw object [15], type : FTObjectType::ARC -->
+          <!-- start DynamicDraw object [16], type : FTObjectType::ARC -->
+          <circle
+             cx="1.4442919"
+             cy="1.4442919"
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+             transform="rotate(-108,1.444292,1.444292)"
+             id="ellipse154"
+             r="0.063124999" />
+          <!-- end DynamicDraw object [16], type : FTObjectType::ARC -->
+        </g>
+        <!-- group -->
+        <!-- end DynamicDraw object [8], type : FTObjectType::GROUP -->
+      </g>
+      <!-- group -->
+      <!-- end DynamicDraw object [7], type : FTObjectType::GROUP -->
+      <!-- start DynamicDraw object [8], type : FTObjectType::RECT -->
+      <rect
+         x="8.7176924"
+         y="3.1816671"
+         width="0.28369999"
+         height="0.3195"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+         transform="rotate(-90,8.859542,3.341417)"
+         id="rect160" />
+      <g
+         transform="rotate(90,8.859542,3.341417)"
+         id="g162">
+        <!-- rotation -->
+      </g>
+      <!-- rotation -->
+      <!-- end DynamicDraw object [8], type : FTObjectType::RECT -->
+      <!-- start DynamicDraw object [9], type : FTObjectType::RECT -->
+      <rect
+         x="3.641042"
+         y="2.2775421"
+         width="5.0587502"
+         height="2.1277499"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+         id="rect164" />
+      <!-- end DynamicDraw object [9], type : FTObjectType::RECT -->
+      <!-- start DynamicDraw object [10], type : FTObjectType::LINE -->
+      <line
+         x1="7.421792"
+         y1="2.3459821"
+         x2="7.421792"
+         y2="4.3307528"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+         id="line166" />
+      <!-- end DynamicDraw object [10], type : FTObjectType::LINE -->
+      <!-- start DynamicDraw object [11], type : FTObjectType::ROUND_RECT -->
+      <rect
+         x="4.652792"
+         y="3.2704921"
+         width="1.704"
+         height="0.189133"
+         rx="0.1"
+         ry="0.1"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+         id="rect168" />
+      <!-- end DynamicDraw object [11], type : FTObjectType::ROUND_RECT -->
+      <!-- start DynamicDraw object [12], type : FTObjectType::ARC -->
+      <circle
+         cx="6.1029172"
+         cy="2.921417"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+         transform="rotate(-108,6.102917,2.921417)"
+         id="ellipse170"
+         r="0.113625" />
+      <!-- end DynamicDraw object [12], type : FTObjectType::ARC -->
+    </g>
+    <!-- group -->
+    <!-- end DynamicDraw object [1], type : FTObjectType::GROUP -->
+  </g>
+  <!-- stroke-linecap, etc -->
+</svg>

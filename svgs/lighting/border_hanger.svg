@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- This file was created by the DynamicDraw's "SVG Export" plug-in version 1.1.2.-->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="3.2050002mm"
+   height="14.644mm"
+   viewBox="0 0 3.2050001 14.644"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="ボーダーハンガー.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="780"
+     inkscape:window-height="480"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="4.1039544"
+     inkscape:cx="6.150826"
+     inkscape:cy="27.674055"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg12" />
+  <g
+     style="stroke-linecap:round;stroke-linejoin:round"
+     id="g10"
+     transform="translate(-0.235594,-0.285594)">
+    <!-- start DynamicDraw object [1], type : FDOJ_GROUP -->
+    <g
+       id="g8">
+      <!-- group -->
+      <!-- start DynamicDraw object [1], type : FDOJ_ROUND_RECT -->
+      <rect
+         x="2.6330941"
+         y="14.273594"
+         width="0.303"
+         height="0.60600001"
+         rx="0.303"
+         ry="0.303"
+         style="fill:#000000;stroke:#000000;stroke-width:0.1"
+         id="rect2" />
+      <!-- end DynamicDraw object [1], type : FDOJ_ROUND_RECT -->
+      <!-- start DynamicDraw object [2], type : FDOJ_ROUND_RECT -->
+      <rect
+         x="2.7845941"
+         y="0.335594"
+         width="0.60600001"
+         height="0.90899998"
+         rx="0.303"
+         ry="0.303"
+         style="fill:#000000;stroke:#000000;stroke-width:0.1"
+         id="rect4" />
+      <!-- end DynamicDraw object [2], type : FDOJ_ROUND_RECT -->
+      <!-- start DynamicDraw object [3], type : FDOJ_POLY -->
+      <polyline
+         points="3.087594,0.941594 0.360594,3.668594 0.360594,12.152594 2.784594,14.576594 "
+         style="fill:none;stroke:#000000;stroke-width:0.25"
+         id="polyline6" />
+      <!-- end DynamicDraw object [3], type : FDOJ_POLY -->
+    </g>
+    <!-- group -->
+    <!-- end DynamicDraw object [1], type : FDOJ_GROUP -->
+  </g>
+  <!-- stroke-linecap, etc -->
+</svg>

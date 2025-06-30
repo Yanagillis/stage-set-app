@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- This file was created by the DynamicDraw's "SVG Export" plug-in version 1.1.2.-->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="5.995213mm"
+   height="11.948992mm"
+   viewBox="0 0 5.9952132 11.948991"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="消防_誘導人員.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="780"
+     inkscape:window-height="480"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="5.0666719"
+     inkscape:cx="11.32958"
+     inkscape:cy="22.581595"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg10" />
+  <g
+     style="stroke-linecap:round;stroke-linejoin:round"
+     id="g8"
+     transform="translate(-0.18788184,-0.18772201)">
+    <!-- start DynamicDraw object [1], type : FDOJ_GROUP -->
+    <g
+       id="g6">
+      <!-- group -->
+      <!-- start DynamicDraw object [1], type : FDOJ_POLY -->
+      <path
+         d="m 3.465487,7.722547 c 0,0 -0.568827,-0.011693 -0.568854,0 -0.00273,1.200547 -0.00273,3.376745 0,3.733932 0.00338,0.442697 -0.410104,0.605235 -0.634788,0.605235 -0.2218,0 -0.614354,-0.218282 -0.614379,-0.605235 -1.8e-5,-0.284421 10e-7,-6.260703 0,-6.260703 C 1.647057,5.195741 1.365115,6.836152 1.238916,7.577782 1.155065,8.07054 0.668556,8.000744 0.592324,7.969918 0.37317,7.881297 0.220393,7.685159 0.273218,7.365785 0.280405,7.322338 0.806029,4.153914 0.857955,3.840911 0.882376,3.693698 0.926054,3.592306 1.003569,3.514791 1.149193,3.369167 1.175754,3.342606 1.294817,3.223543 1.361402,3.156958 1.514186,3.046753 1.664432,3.046683 c 3.19e-4,-10e-7 3.030529,0 3.030529,0 0.144567,0 0.246105,0.07943 0.328782,0.129849 0,0 0.200531,0.204204 0.329713,0.329713 0.068504,0.066556 0.108215,0.123879 0.133086,0.271286 1e-6,6e-6 0.599016,3.588668 0.617439,3.703119 C 6.141113,7.71133 5.916191,7.930907 5.746793,7.975208 5.585707,8.017336 5.184672,7.938493 5.13008,7.621617 5.124364,7.588437 4.712336,5.182547 4.712336,5.182547 c 0,0 0,6.273932 0,6.273932 0.00662,0.324115 -0.320013,0.605235 -0.58711,0.605235 -0.356328,0 -0.659739,-0.261276 -0.659739,-0.605235 0,0 0,-3.733932 0,-3.733932"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+         id="path2"
+         inkscape:connector-curvature="0" />
+      <!-- end DynamicDraw object [1], type : FDOJ_POLY -->
+      <!-- start DynamicDraw object [2], type : FDOJ_ARC -->
+      <circle
+         cx="3.185385"
+         cy="1.410225"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+         id="ellipse4"
+         r="1.147503" />
+      <!-- end DynamicDraw object [2], type : FDOJ_ARC -->
+    </g>
+    <!-- group -->
+    <!-- end DynamicDraw object [1], type : FDOJ_GROUP -->
+  </g>
+  <!-- stroke-linecap, etc -->
+</svg>

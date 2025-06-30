@@ -1,0 +1,316 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    background-color: #f4f5f7;
+    height: 100%;
+    overflow: hidden; /* Prevent body scroll */
+}
+
+#app-container {
+    display: flex;
+    height: calc(100vh - 40px); /* Adjust for control panel */
+}
+
+#sidebar {
+    width: 220px;
+    padding: 10px;
+    border-right: 1px solid #ccc;
+    background-color: #fff;
+    overflow-y: auto; /* Allow sidebar to scroll */
+    box-sizing: border-box;
+}
+
+.category-header {
+    cursor: pointer;
+    padding: 8px 4px;
+    font-weight: 600;
+    user-select: none;
+    border-bottom: 1px solid #eee;
+}
+
+.category-header:hover {
+    background-color: #f0f0f0;
+}
+
+.category-items {
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 5px;
+}
+
+.category-items.hidden {
+    display: none;
+}
+
+.svg-item {
+    width: 80px;
+    height: 80px;
+    border: 1px solid #eee;
+    margin: 5px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    cursor: grab;
+    background-color: #fff;
+    border-radius: 4px;
+    transition: box-shadow 0.2s, transform 0.2s;
+    user-select: none;
+    box-sizing: border-box;
+}
+
+.svg-item:hover {
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    transform: translateY(-2px);
+}
+
+.svg-item img {
+    max-width: 90%;
+    max-height: 90%;
+    pointer-events: none;
+}
+
+#main-content {
+    flex-grow: 1;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    overflow: auto; /* Allow main content to scroll */
+}
+
+#stage-area {
+    width: 80%; /* Use percentage for responsive width */
+    position: relative; /* Add this for positioning context */
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: #fff;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    border-radius: 4px;
+}
+
+#stage-header {
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+
+.header-row {
+    display: flex;
+    align-items: center; /* Vertically align items in the center */
+    border-bottom: 1px solid #eee;
+    padding: 2px 0;
+}
+
+.header-row:last-child {
+    border-bottom: none;
+}
+
+.header-row > div { /* This is now the container for label + editable area */
+    display: flex;
+    align-items: center;
+    padding: 3px 5px;
+}
+
+.header-label {
+    margin-right: 8px; /* Space between label and input */
+    white-space: nowrap; /* Prevent label from wrapping */
+    color: #555;
+}
+
+.editable-area {
+    flex-grow: 1; /* Allow input area to take remaining space */
+    border: 1px solid transparent;
+    padding: 3px 5px;
+    min-height: 1.2em; /* Ensure it has some height even when empty */
+}
+
+.editable-area:focus {
+    border-color: #007bff;
+    outline: none;
+    background-color: #e8f0fe;
+}
+
+/* Placeholder styling */
+.editable-area:empty::before {
+    content: attr(data-placeholder);
+    color: #999;
+    pointer-events: none; /* Make sure the placeholder text doesn't interfere with clicks */
+}
+
+/* Row 1 Ratios & Alignment */
+.header-item-d { flex: 2.5; justify-content: flex-start; }
+.header-item-e { flex: 5;   justify-content: center; }
+.header-item-v { flex: 2.5; justify-content: flex-end; }
+
+/* Row 2 Ratios & Alignment */
+.header-item-a { flex: 7.5; justify-content: flex-start; }
+.header-item-t { flex: 2.5; text-align: right; }
+
+.date-container {
+    position: relative; /* Needed for positioning the hidden input */
+}
+
+#calendar-icon {
+    cursor: pointer;
+    margin-left: 8px;
+    user-select: none;
+}
+
+.date-input-hidden {
+    position: absolute;
+    top: 0;
+    right: 0; /* Position over the icon area */
+    width: 30px; /* Cover the icon and a bit of margin */
+    height: 100%;
+    opacity: 0; /* Make it completely transparent */
+    cursor: pointer; /* Show a pointer cursor on hover */
+    border: none; /* Remove default input border */
+}
+
+.stage-legend {
+    position: absolute;
+    top: 10px; /* Adjust as needed */
+    right: 15px; /* Adjust as needed */
+    font-size: 12px;
+    color: black;
+    z-index: 10; /* Ensure it's above the stage but below items if necessary */
+}
+
+#stage {
+    width: 100%;
+    height: 0;
+    padding-bottom: 65%; /* Aspect Ratio */
+    border: 2px solid black; /* Changed to black and thicker */
+    position: relative;
+    overflow: hidden;
+}
+
+.draggable-item {
+    position: absolute;
+    touch-action: none;
+    user-select: none;
+    box-sizing: border-box;
+    transform-origin: center center;
+}
+
+.draggable-item img {
+    width: 100%;
+    height: 100%;
+    display: block;
+    pointer-events: none;
+}
+
+.draggable-item.selected {
+    outline: 2px dashed #007bff;
+    z-index: 1000; /* Bring selected item to the front */
+}
+
+.rotate-handle, .resize-handle {
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    background: #007bff;
+    border: 1px solid white;
+    border-radius: 50%;
+    display: none; /* Hidden by default */
+    z-index: 1001;
+}
+
+.draggable-item.selected .rotate-handle,
+.draggable-item.selected .resize-handle {
+    display: block; /* Shown when selected */
+}
+
+.rotate-handle {
+    top: -20px;
+    left: calc(50% - 6px);
+    cursor: alias;
+}
+
+.resize-handle.nw { top: -6px; left: -6px; cursor: nwse-resize; }
+.resize-handle.ne { top: -6px; right: -6px; cursor: nesw-resize; }
+.resize-handle.sw { bottom: -6px; left: -6px; cursor: nesw-resize; }
+.resize-handle.se { bottom: -6px; right: -6px; cursor: nwse-resize; }
+
+#stage.drop-active {
+    background-color: #e8f0fe;
+}
+
+#control-panel {
+    padding: 5px 10px;
+    background-color: #e9ecef;
+    border-bottom: 1px solid #ccc;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    height: 30px; /* Fixed height */
+}
+
+#control-panel button {
+    padding: 4px 10px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+#control-panel button:hover:not(:disabled) {
+    background-color: #007bff;
+    color: white;
+}
+
+#control-panel button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+.info-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+
+.info-table th, .info-table td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+}
+
+.info-table th {
+    background-color: #f2f2f2;
+}
+
+.info-table tbody tr.selected-row {
+    background-color: #d4edda; /* A light green to indicate selection */
+}
+
+.table-container {
+    margin-bottom: 20px;
+}
+
+.table-container button {
+    margin-right: 5px;
+}
+
+.draggable-item.grayed-out img {
+    filter: grayscale(90%) brightness(60%); /* Darker gray */
+    opacity: 1; /* Fully opaque */
+}
+
+.text-box {
+    padding: 5px;
+    border: 1px solid transparent; /* No border by default */
+}
+
+.draggable-item.selected.text-box {
+    border: 1px dashed #007bff; /* Dashed border when selected */
+}
+
+.text-box [contenteditable="true"]:focus {
+    outline: none;
+}

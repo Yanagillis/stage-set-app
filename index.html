@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stage Set Planner</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="control-panel">
+        <button id="export-pdf">PDF書き出し</button>
+        <button id="delete-item">選択削除</button>
+        <button id="reset-rotation">回転リセット</button>
+        <button id="toggle-grayout">グレー塗りつぶし</button>
+        <button id="add-text-box">テキスト追加</button>
+        <button id="undo-button" disabled>元に戻す</button>
+        <button id="redo-button" disabled>やり直す</button>
+    </div>
+
+    <div id="app-container">
+        <div id="sidebar">
+            <div id="parts-container">
+                <!-- SVG items will be loaded here -->
+            </div>
+        </div>
+
+        <div id="main-content">
+            <div id="stage-area">
+                <div id="stage-header">
+                    <div class="header-row">
+                        <div class="header-item-d date-container">
+                            <span class="header-label">日付:</span>
+                            <div contenteditable="true" id="date-display" class="editable-area" data-placeholder="YYYY/MM/DD"></div>
+                            <span id="calendar-icon">📅</span>
+                            <input type="date" id="date-input" class="date-input-hidden">
+                        </div>
+                        <div class="header-item-e">
+                            <span class="header-label">イベント名:</span>
+                            <div contenteditable="true" id="performance-order" class="editable-area" data-placeholder="イベント名を入力"></div>
+                        </div>
+                        <div class="header-item-v">
+                            <span class="header-label">会場名:</span>
+                            <div contenteditable="true" id="venue-name" class="editable-area" data-placeholder="会場名を入力"></div>
+                        </div>
+                    </div>
+                    <div class="header-row">
+                        <div class="header-item-a">
+                            <span class="header-label">アーティスト名:</span>
+                            <div contenteditable="true" id="band-name" class="editable-area" data-placeholder="アーティスト名を入力"></div>
+                        </div>
+                        <div class="header-item-t">
+                            <span class="header-label">演奏時間:</span>
+                            <div contenteditable="true" id="total-time" class="editable-area" data-placeholder="演奏時間を入力"></div>
+                        </div>
+                    </div>
+                </div>
+                <div id="stage">
+                    <div class="stage-legend">※レンタル品グレー表記</div>
+                    <!-- Draggable items will be placed here -->
+                </div>
+            </div>
+
+            <div id="info-tables">
+                <div class="table-container">
+                    <h4>メンバー/要望</h4>
+                    <table id="member-request-table" class="info-table">
+                        <thead>
+                            <tr>
+                                <th>氏名</th>
+                                <th>パート</th>
+                                <th>持ち込み機材</th>
+                                <th>モニター要望</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <!-- Rows will be added here -->
+                        </tbody>
+                    </table>
+                    <button id="add-member-row">メンバー/要望を追加</button>
+                    <button id="delete-member-row">選択した行を削除</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/interactjs/dist/interact.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>

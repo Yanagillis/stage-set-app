@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="5.2760005mm"
+   height="4.6700001mm"
+   viewBox="0 0 5.2760005 4.67"
+   version="1.1"
+   id="svg12">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16" />
+  <g
+     style="stroke-linecap:round;stroke-linejoin:round"
+     id="g10"
+     transform="translate(-0.21388892,-0.21388895)">
+    <!-- start DynamicDraw object [1], type : FTObjectType::GROUP -->
+    <g
+       id="g8">
+      <!-- group -->
+      <!-- start DynamicDraw object [1], type : FTObjectType::POLY -->
+      <path
+         d="m 0.579389,1.488389 c 0,0 0,1.212 0.303,2.121 0.303,0.909 0.909,1.212 0.909,1.212 0,0 2.121,0 2.121,0 0,0 0.606,-0.303 0.909,-1.212 0.303,-0.909 0.303,-2.121 0.303,-2.121 0,0 0,-0.606 0,-1.212 0,0 -4.545,0 -4.545,0 0,0.606 0,1.212 0,1.212"
+         style="fill:#b3b3b3;stroke:#000000;stroke-width:0.125"
+         id="path2" />
+      <!-- end DynamicDraw object [1], type : FTObjectType::POLY -->
+      <!-- start DynamicDraw object [2], type : FTObjectType::RECT -->
+      <rect
+         x="2.2458889"
+         y="-1.6931109"
+         width="1.212"
+         height="5.151"
+         style="fill:#b3b3b3;stroke:#000000;stroke-width:0.125"
+         transform="rotate(90,2.851889,0.882389)"
+         id="rect4" />
+      <!-- end DynamicDraw object [2], type : FTObjectType::RECT -->
+      <!-- start DynamicDraw object [3], type : FTObjectType::LINE -->
+      <line
+         x1="5.4273891"
+         y1="1.185389"
+         x2="0.276389"
+         y2="1.185389"
+         style="fill:#b3b3b3;stroke:#000000;stroke-width:0.125"
+         id="line6" />
+      <!-- end DynamicDraw object [3], type : FTObjectType::LINE -->
+    </g>
+    <!-- group -->
+    <!-- end DynamicDraw object [1], type : FTObjectType::GROUP -->
+  </g>
+  <!-- stroke-linecap, etc -->
+</svg>

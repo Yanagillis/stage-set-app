@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- This file was created by the DynamicDraw's "SVG Export" plug-in version 1.1.2.-->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="4.3670001mm"
+   height="3.307394mm"
+   viewBox="0 0 4.367 3.3073941"
+   version="1.1"
+   id="svg38"
+   sodipodi:docname="カメラV横.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata44">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs42" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="784"
+     inkscape:window-height="480"
+     id="namedview40"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="16.717984"
+     inkscape:cx="8.2525835"
+     inkscape:cy="6.250953"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg38" />
+  <g
+     style="stroke-linecap:round;stroke-linejoin:round"
+     id="g36"
+     transform="translate(-0.21400399,-0.21400399)">
+    <!-- start DynamicDraw object [1], type : FDOJ_GROUP -->
+    <g
+       id="g34">
+      <!-- group -->
+      <!-- start DynamicDraw object [1], type : FDOJ_POLY -->
+      <path
+         d="m 4.215504,1.080619 c 0,0.198116 0,2.179269 0,2.179269 0,0.198116 0,0.198116 -0.3535,0.198116 0,0 -1.414,0 -1.414,0 -0.3535,0 -0.3535,0 -0.3535,-0.198116 0,0 0,-2.179269 0,-2.179269 0,-0.198115 0,-0.198115 0.3535,-0.198115 0,0 1.0605,0 1.414,0 0.3535,0 0.3535,0 0.3535,0.198115"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+         id="path2"
+         inkscape:connector-curvature="0" />
+      <!-- end DynamicDraw object [1], type : FDOJ_POLY -->
+      <!-- start DynamicDraw object [2], type : FDOJ_POLY -->
+      <path
+         d="m 4.215504,1.080619 c 0,0.198116 0,2.179269 0,2.179269 0,0.198116 0,0.198116 -0.2525,0.198116 0,0 -1.01,0 -1.01,0 -0.2525,0 -0.2525,0 -0.2525,-0.198116 0,0 0,-2.179269 0,-2.179269 0,-0.198115 0,-0.198115 0.2525,-0.198115 0,0 0.7575,0 1.01,0 0.2525,0 0.2525,0 0.2525,0.198115"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+         id="path4"
+         inkscape:connector-curvature="0" />
+      <!-- end DynamicDraw object [2], type : FDOJ_POLY -->
+      <!-- start DynamicDraw object [3], type : FDOJ_RECT -->
+      <rect
+         x="2.7005041"
+         y="0.57950401"
+         width="1.515"
+         height="0.303"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+         transform="rotate(180,3.458004,0.731004)"
+         id="rect6" />
+      <!-- end DynamicDraw object [3], type : FDOJ_RECT -->
+      <!-- start DynamicDraw object [4], type : FDOJ_RECT -->
+      <rect
+         x="3.306504"
+         y="0.27650401"
+         width="0.90899998"
+         height="0.303"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+         transform="rotate(180,3.761004,0.428004)"
+         id="rect8" />
+      <!-- end DynamicDraw object [4], type : FDOJ_RECT -->
+      <!-- start DynamicDraw object [5], type : FDOJ_RECT -->
+      <rect
+         x="4.0640039"
+         y="1.034004"
+         width="0.60600001"
+         height="0.303"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+         transform="rotate(-90,4.367004,1.185504)"
+         id="rect10" />
+      <g
+         transform="rotate(90,4.367004,1.185504)"
+         id="g12">
+        <!-- rotation -->
+      </g>
+      <!-- rotation -->
+      <!-- end DynamicDraw object [5], type : FDOJ_RECT -->
+      <!-- start DynamicDraw object [6], type : FDOJ_GROUP -->
+      <g
+         id="g30">
+        <!-- group -->
+        <!-- start DynamicDraw object [6], type : FDOJ_RECT -->
+        <rect
+           x="0.27650401"
+           y="1.185504"
+           width="2.1210001"
+           height="2.1210001"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+           transform="rotate(90,1.337004,2.246004)"
+           id="rect14" />
+        <g
+           transform="rotate(-90,1.337004,2.246004)"
+           id="g16">
+          <!-- rotation -->
+        </g>
+        <!-- rotation -->
+        <!-- end DynamicDraw object [6], type : FDOJ_RECT -->
+        <!-- start DynamicDraw object [7], type : FDOJ_RECT -->
+        <rect
+           x="0.731004"
+           y="1.943004"
+           width="2.1210001"
+           height="0.60600001"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+           transform="rotate(90,1.791504,2.246004)"
+           id="rect18" />
+        <g
+           transform="rotate(-90,1.791504,2.246004)"
+           id="g20">
+          <!-- rotation -->
+        </g>
+        <!-- rotation -->
+        <!-- end DynamicDraw object [7], type : FDOJ_RECT -->
+        <!-- start DynamicDraw object [8], type : FDOJ_RECT -->
+        <rect
+           x="1.791504"
+           y="2.0945041"
+           width="1.515"
+           height="0.303"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+           transform="rotate(90,2.549004,2.246004)"
+           id="rect22" />
+        <g
+           transform="rotate(-90,2.549004,2.246004)"
+           id="g24">
+          <!-- rotation -->
+        </g>
+        <!-- rotation -->
+        <!-- end DynamicDraw object [8], type : FDOJ_RECT -->
+        <!-- start DynamicDraw object [9], type : FDOJ_RECT -->
+        <rect
+           x="-0.329496"
+           y="2.0945041"
+           width="2.1210001"
+           height="0.303"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+           transform="rotate(90,0.731004,2.246004)"
+           id="rect26" />
+        <g
+           transform="rotate(-90,0.731004,2.246004)"
+           id="g28">
+          <!-- rotation -->
+        </g>
+        <!-- rotation -->
+        <!-- end DynamicDraw object [9], type : FDOJ_RECT -->
+      </g>
+      <!-- group -->
+      <!-- end DynamicDraw object [6], type : FDOJ_GROUP -->
+      <!-- start DynamicDraw object [7], type : FDOJ_RECT -->
+      <rect
+         x="3.003504"
+         y="0.57950401"
+         width="0.90899998"
+         height="0.303"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.125"
+         transform="rotate(180,3.458004,0.731004)"
+         id="rect32" />
+      <!-- end DynamicDraw object [7], type : FDOJ_RECT -->
+    </g>
+    <!-- group -->
+    <!-- end DynamicDraw object [1], type : FDOJ_GROUP -->
+  </g>
+  <!-- stroke-linecap, etc -->
+</svg>
