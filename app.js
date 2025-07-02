@@ -115,7 +115,8 @@ document.addEventListener('DOMContentLoaded', () => {
         'Drums': ['China.svg', 'Crash.svg', 'EffectCymbal.svg', 'FTOM.svg', 'Hihat.svg', 'HTOM.svg', 'Kick.svg', 'LTOM.svg', 'Ride.svg', 'Snare.svg', 'Splash.svg'],
         'Electronic': ['100V.svg', 'DI.svg', 'IEM.svg', 'Mic.svg', 'Mixer.svg', 'Monitor.svg', 'PC.svg'],
         'Guitar_Bass': ['cabi.svg', 'Combo.svg', 'Head.svg'],
-        'Others': ['Human.svg']
+        'Others': ['Human.svg'],
+        'Piano_Keys': ['E-Piano.svg', 'GrandPiano.svg', 'Synth.svg']
     };
 
     for (const category in svgFiles) {
@@ -287,6 +288,22 @@ document.addEventListener('DOMContentLoaded', () => {
             element.classList.add('selected');
             stage.appendChild(element);
         });
+
+        // For text boxes, enable editing on double click
+        if (element.classList.contains('text-box')) {
+            const textContentElement = element.querySelector('[contenteditable="true"]');
+            element.addEventListener('dblclick', (e) => {
+                e.stopPropagation();
+                textContentElement.focus();
+                // Disable draggable and resizable when editing
+                interact(element).unset(); // Unset all interactions for this element
+            });
+            textContentElement.addEventListener('blur', () => {
+                // Re-enable draggable and resizable when done editing
+                initializeInteractions(element); // Re-initialize interactions
+                saveState(); // Save state after editing
+            });
+        }
     }
 
     interact('.svg-item').draggable({
@@ -334,8 +351,6 @@ document.addEventListener('DOMContentLoaded', () => {
         const originalMainContentOverflow = mainContentElement.style.overflow;
         const originalMainContentHeight = mainContentElement.style.height;
         const originalMainContentPaddingBottom = mainContentElement.style.paddingBottom;
-        const originalMainContentTransform = mainContentElement.style.transform; // Store original transform
-        const originalMainContentTransformOrigin = mainContentElement.style.transformOrigin; // Store original transform-origin
 
         mainContentElement.style.overflow = 'visible';
         mainContentElement.style.height = 'fit-content';

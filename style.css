@@ -305,6 +305,9 @@ body, html {
 .text-box {
     padding: 5px;
     border: 1px solid transparent; /* No border by default */
+    display: flex;
+    align-items: center; /* Vertical center */
+    justify-content: center; /* Horizontal center */
 }
 
 .draggable-item.selected.text-box {
